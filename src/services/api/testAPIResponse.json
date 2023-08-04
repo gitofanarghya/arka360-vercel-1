@@ -1,0 +1,920 @@
+{
+    "total_insentive": "0.00",
+    "cost_after_insentive": "0.00",
+    "inverter": "PVI-3.8-I-OUTD-x-US-y 208V [CEC 2010] ABB",
+    "modules": "ANJI Technology Co., Ltd.",
+    "project_head": {
+        "name": "us report",
+        "client_email_id": "client@client.com",
+        "address": "804 Woodside Ln, Encinitas, CA 92024, USA",
+        "client_contact_number": "(555) 555-1234",
+        "client_name": "Raghavendra H M",
+        "latitude": 33.06,
+        "longitude": -117.24,
+        "project_creator_name": "bangaru dada",
+        "project_creator_phone_number": "79888977076"
+    },
+    "system_metrics": {
+        "Module DC Nameplate": "7.28 kWp",
+        "AC Nameplate": "6.00 kW, DC-AC Ratio: 1.21",
+        "Annual Production": "12.51-x 1000 kWh (Units)",
+        "Annual Production_usa": "12,508.46",
+        "Performance Ratio": "81.32%",
+        "Specific Generation (kWh/kWp/year)": "1718.2",
+        "Weather Dataset": "Meteonorm",
+        "Average Monthly Production": "1,042.37",
+        "Shading Loss": 0.0,
+        "Degradation Rate": 1.5,
+        "Year 1 Usage Offset": 100,
+        "Utility_Company": "San Diego Gas & Electric Co",
+        "utilityRate": "A-6-TOU General - Time Metered - Optional"
+    },
+    "off_grid": {},
+    "condition_set": {
+        "Solar Angle Location": "Meteo Lang/Long",
+        "Transposition Model": "Perez model",
+        "Temperature Model": "Sandia model",
+        "Temperature Model Parameters": {
+            "headers": [
+                "Rack Type",
+                "a",
+                "b",
+                "Temperature Delta"
+            ],
+            "values": [
+                [
+                    "Fixed Tilt",
+                    -3.56,
+                    -0.075,
+                    "3°C"
+                ],
+                [
+                    "Tilted Mount",
+                    -2.81,
+                    -0.0455,
+                    "0°C"
+                ],
+                [
+                    "East-West",
+                    -3.56,
+                    -0.075,
+                    "3°C"
+                ],
+                [
+                    "Carport",
+                    -3.56,
+                    -0.075,
+                    "3°C"
+                ]
+            ]
+        },
+        "Soiling": {
+            "headers": [
+                "J",
+                "F",
+                "M",
+                "A",
+                "M",
+                "J",
+                "J",
+                "A",
+                "S",
+                "O",
+                "N",
+                "D"
+            ],
+            "values": [
+                [
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0
+                ]
+            ]
+        },
+        "Module Characterizations": {
+            "headers": [
+                "Device",
+                "Characterization"
+            ],
+            "values": [
+                [
+                    "ANJI Technology Co., Ltd.",
+                    "Spec Sheet Characterization, PAN"
+                ]
+            ]
+        },
+        "Inverter Characterizations": {
+            "headers": [
+                "Device",
+                "Characterization"
+            ],
+            "values": [
+                [
+                    "PVI-3.8-I-OUTD-x-US-y 208V [CEC 2010] ABB",
+                    "CEC Efficiency curves"
+                ]
+            ]
+        },
+        "Weather Dataset": "1364, Sapphire Drive, Emerald Point Estates, Carlsbad, San Diego County, California, 92011, United States (33.12, -117.30)"
+    },
+    "field_segments": {
+        "headers": [
+            "Orientation",
+            "Tilt",
+            "Azimuth",
+            "Row Spacing",
+            "Frame Size",
+            "Modules",
+            "Power"
+        ],
+        "values": [
+            [
+                "Portrait",
+                "20 °",
+                "180 °",
+                "1.178 m",
+                "1x1",
+                28,
+                "7.28 KW"
+            ]
+        ]
+    },
+    "field_segments_usa": {
+        "headers": [
+            "Orientation",
+            "Tilt",
+            "Azimuth",
+            "Modules",
+            "Array Size (DC)"
+        ],
+        "values": [
+            [
+                "Portrait",
+                "20 °",
+                "180 °",
+                28,
+                "7.28 KW"
+            ],
+            [
+                "Portrait",
+                "20 °",
+                "180 °",
+                28,
+                "7.28 KW"
+            ]
+        ]
+    },
+    "components": {
+        "components": [
+            "Modules",
+            "Inverters",
+            "Optimizers",
+            "Racking System",
+            "BOS",
+            "manual_bom_data",
+            "Combiner Box",
+            "Handrail",
+            "Safetyline"
+        ],
+        "Modules": [
+            [
+                "ANJI Technology Co., Ltd.",
+                28,
+                "No."
+            ]
+        ],
+        "Inverters": [
+            [
+                "PVI-3.8-I-OUTD-x-US-y 208V [CEC 2010] ABB",
+                2,
+                "No."
+            ],
+            [
+                "PVI-3.8-I-OUTD-x-US-y 208V [CEC 2010] ABB",
+                2,
+                "No."
+            ],
+            [
+                "PVI-3.8-I-OUTD-x-US-y 208V [CEC 2010] ABB",
+                2,
+                "No."
+            ]
+        ],
+        "Optimizers": [],
+        "Structure": [
+            [
+                "Premium Structure",
+                " ",
+                ""
+            ]
+        ],
+        "Racking System": [
+            [
+                "Premium Structure",
+                " ",
+                ""
+            ]
+        ],
+        "BOS": [
+            [
+                "DC Distribution Box",
+                0,
+                "No."
+            ],
+            [
+                "AC Distribution Box",
+                "",
+                ""
+            ],
+            [
+                "Earthing",
+                "",
+                ""
+            ],
+            [
+                "Lightning Arrestor",
+                "",
+                ""
+            ]
+        ],
+        "manual_bom_data": null,
+        "Combiner Box": [],
+        "Handrail": [],
+        "Safetyline": []
+    },
+    "project_location": "https://maps.googleapis.com/maps/api/staticmap?center=33.0542250545655136,-117.2389133466270437&scale=2&zoom=20&maptype=satellite&size=512x512&markers=color:red%7Clabel:P%7C33.0542250545655136,-117.2389133466270437&key=***********************",
+    "monthly_table": {
+        "headers": [
+            "Months",
+            "Direct Irradiance (kWh/m2)",
+            "Diffused Irradiance (kWh/m2)",
+            "Effective Irradiance (kWh/m2)",
+            "DC Energy (kWh)",
+            "AC Energy (kWh)",
+            "Specific Generation",
+            "Performance Ratio"
+        ],
+        "values": [
+            [
+                "January",
+                "93.55",
+                "29.44",
+                "142.11",
+                "908.16",
+                "867.61",
+                "119.18",
+                "83.86"
+            ],
+            [
+                "February",
+                "107.2",
+                "40.26",
+                "136.36",
+                "868.44",
+                "829.65",
+                "113.96",
+                "83.57"
+            ],
+            [
+                "March",
+                "153.58",
+                "55.39",
+                "182.74",
+                "1,142.49",
+                "1,087.89",
+                "149.44",
+                "81.78"
+            ],
+            [
+                "April",
+                "179.77",
+                "67.25",
+                "190.87",
+                "1,183.15",
+                "1,125.75",
+                "154.64",
+                "81.02"
+            ],
+            [
+                "May",
+                "200.38",
+                "71.57",
+                "199.71",
+                "1,224.64",
+                "1,164.7",
+                "159.99",
+                "80.11"
+            ],
+            [
+                "June",
+                "205.12",
+                "77.69",
+                "199.4",
+                "1,217.38",
+                "1,162.66",
+                "159.71",
+                "80.1"
+            ],
+            [
+                "July",
+                "220.95",
+                "69.94",
+                "219.36",
+                "1,318.57",
+                "1,259.03",
+                "172.94",
+                "78.84"
+            ],
+            [
+                "August",
+                "206.85",
+                "67.89",
+                "215.93",
+                "1,295.96",
+                "1,237.99",
+                "170.05",
+                "78.75"
+            ],
+            [
+                "September",
+                "170.16",
+                "56.58",
+                "192.76",
+                "1,165.02",
+                "1,111.86",
+                "152.73",
+                "79.23"
+            ],
+            [
+                "October",
+                "132.56",
+                "48.91",
+                "167.03",
+                "1,034.47",
+                "988.23",
+                "135.75",
+                "81.27"
+            ],
+            [
+                "November",
+                "104.36",
+                "29.2",
+                "146.71",
+                "924.84",
+                "883.54",
+                "121.37",
+                "82.73"
+            ],
+            [
+                "December",
+                "87.6",
+                "33.1",
+                "128.26",
+                "826.45",
+                "789.55",
+                "108.45",
+                "84.55"
+            ],
+            [
+                "Annual",
+                1862.08,
+                647.22,
+                2121.24,
+                13109.56,
+                12508.46,
+                1718.21,
+                81.32
+            ]
+        ]
+    },
+    "detailed_layout_link": "https://dev.thesolarlabs.com/stage/7182a29f-6efb-49a9-ba51-cfdb54eea852",
+    "financial_data": {
+        "price_per_kw": null,
+        "absolute_price": null,
+        "expected_life_years": 25,
+        "tax": 8.9,
+        "discount_rate": 6.25,
+        "subsidy_percentage": null,
+        "subsidy_amount": null,
+        "ad_percentage": 0.0,
+        "ad_years": 0.0,
+        "ad_tax_slab": 0.0,
+        "irr": 157784.18,
+        "roi": 17292.4,
+        "payback": {
+            "years": 0,
+            "months": 0
+        },
+        "cost": 15855.84,
+        "savings": [
+            25016920.0,
+            24641666.2,
+            24272041.21,
+            23907960.59,
+            23549341.18,
+            23196101.06,
+            22848159.55,
+            22505437.15,
+            22167855.6,
+            21835337.76,
+            21507807.7,
+            21185190.58,
+            20867412.72,
+            20554401.53,
+            20246085.51,
+            19942394.23,
+            19643258.31,
+            19348609.44,
+            19058380.3,
+            18772504.59,
+            18490917.02,
+            18213553.27,
+            17940349.97,
+            17671244.72,
+            17406176.05
+        ],
+        "bill_with_solar": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "bill_with_solar_year_one": 0.0,
+        "bill_without_solar": [
+            15614000.0,
+            15926280.0,
+            16244805.6,
+            16569701.71,
+            16901095.75,
+            17239117.66,
+            17583900.01,
+            17935578.01,
+            18294289.57,
+            18660175.37,
+            19033378.87,
+            19414046.45,
+            19802327.38,
+            20198373.93,
+            20602341.41,
+            21014388.23,
+            21434676.0,
+            21863369.52,
+            22300636.91,
+            22746649.65,
+            23201582.64,
+            23665614.29,
+            24138926.58,
+            24621705.11,
+            25114139.21
+        ],
+        "savings_from_Solar": 100,
+        "cumulative_savings": [
+            25001064.16,
+            49642730.36,
+            73914771.57,
+            97822732.16,
+            121372073.34,
+            144568174.4,
+            167416333.94,
+            189921771.1,
+            212089626.69,
+            233924964.46,
+            255432772.15,
+            276617962.73,
+            297485375.45,
+            318039776.98,
+            338285862.49,
+            358228256.72,
+            377871515.03,
+            397220124.46,
+            416278504.76,
+            435051009.35,
+            453541926.37,
+            471755479.64,
+            489695829.61,
+            507367074.33,
+            524773250.37
+        ],
+        "country": {
+            "id": 52,
+            "name": "United States",
+            "country_code": "US",
+            "currency": "USD",
+            "currency_code": "USD",
+            "conversion_factor": 1.1
+        },
+        "monthly_saving": [
+            1735220.0,
+            1659300.0,
+            2175780.0,
+            2251500.0,
+            2329400.0,
+            2325320.0,
+            2518060.0,
+            2475980.0,
+            2223720.0,
+            1976460.0,
+            1767080.0,
+            1579100.0
+        ],
+        "LCOE": "0.11",
+        "average_monthly_saving": 2084743.33,
+        "average_monthly_saving_usa": "2,084,743",
+        "price_increase": 2.0,
+        "price": 2000.0,
+        "feed_in_tarrif": 0.0,
+        "total_investment": 14560.0,
+        "total_investment_usa": "14,560.00",
+        "total_savings": "274,185,563.27",
+        "monthly_saving_year": "25,016,920.0",
+        "price_per_watt": 2.0
+    },
+    "organisation_data": {
+        "name": "The Solar Labs Designing Software",
+        "logo": "https://design-studio-app.s3.amazonaws.com/Solar_labs_tKJhhLn.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220727%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T115936Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e07c72f52a22a4b73ad7de9f1af2fc23be342ef2a31b2dc62d8bd6d41c67fa14",
+        "website": null,
+        "email_id": "sparsh@gmail.com",
+        "phone": "79888977076",
+        "about_us": "wqfwefwef",
+        "is_logo_on_title": true,
+        "is_logo_on_heat_map": true,
+        "is_logo_on_shadow_analysis": true,
+        "is_logo_on_about_us": true,
+        "is_logo_on_system_metrics": true,
+        "is_logo_on_savings": true,
+        "is_logo_on_components": true,
+        "is_logo_on_monthly_table": true,
+        "is_logo_on_field_segments": true,
+        "is_logo_on_bill_without_solar": true,
+        "is_logo_on_environmental_impact": true,
+        "is_logo_on_thank_you": true,
+        "is_three_d_link": true,
+        "address": [
+            "lihfelihliahfhwhf;liwqhe;if"
+        ],
+        "designation": [
+            null
+        ]
+    },
+    "green_impact_data": {
+        "co2_offset": "185.51",
+        "trees": "3,070",
+        "acres_of_forest": "217.79",
+        "coal_burn_avoided": "92.0",
+        "gasoline_consumed": "79,124.03",
+        "kilometers_driven": "729,456.86"
+    },
+    "report_defaults_data": {
+        "pages": [
+            "system-metrics",
+            "savings",
+            "components",
+            "title",
+            "monthly-production",
+            "monthly-savings",
+            "monthly-table",
+            "bill-with-without-solar",
+            "environmental-impact",
+            "heat-map",
+            "about-us",
+            "thank-you",
+            "losses",
+            "field-segments",
+            "shadow-analysis"
+        ],
+        "report_type": "",
+        "threed_data": {
+            "financial": true,
+            "generation": true
+        },
+        "custom_color": {
+            "primary_color": "#005482",
+            "tertiary_color": "#00c2c7",
+            "secondary_color": "#0086ae"
+        },
+        "template_name": "solar_labs",
+        "shadowAnalysis": {
+            "end_time_shadow_analysis": "17:00:00",
+            "start_time_shadow_analysis": "09:00:00"
+        }
+    },
+    "custom_color": {
+        "primary_color": "#005482",
+        "tertiary_color": "#00c2c7",
+        "secondary_color": "#0086ae"
+    },
+    "report_type": "",
+    "units": {
+        "distance_unit": "meters",
+        "wiring_unit": "mmsq"
+    },
+    "country": {
+        "id": 52,
+        "name": "United States",
+        "country_code": "US",
+        "currency": "USD",
+        "currency_code": "USD",
+        "conversion_factor": 1.1
+    },
+    "date": "27-07-2022",
+    "isRoofData": false,
+    "insentives_data": [],
+    "previous_project_details": {
+        "previous_project_one_image": "",
+        "previous_project_two_image": "",
+        "previous_project_three_image": "",
+        "previous_project_one_name": null,
+        "previous_project_two_name": null,
+        "previous_project_three_name": null
+    },
+    "state": "California",
+    "chart_data": {
+        "monthly_prod": [
+            867.61,
+            829.65,
+            1087.89,
+            1125.75,
+            1164.7,
+            1162.66,
+            1259.03,
+            1237.99,
+            1111.86,
+            988.23,
+            883.54,
+            789.55
+        ],
+        "performance_ratio": [
+            83.86,
+            83.57,
+            81.78,
+            81.02,
+            80.11,
+            80.1,
+            78.84,
+            78.75,
+            79.23,
+            81.27,
+            82.73,
+            84.55
+        ],
+        "normalized_production": {
+            "useful_energy": [
+                867.61,
+                829.65,
+                1087.89,
+                1125.75,
+                1164.7,
+                1162.66,
+                1259.03,
+                1237.99,
+                1111.86,
+                988.23,
+                883.54,
+                789.55
+            ],
+            "system_loss": [
+                40.54761112076926,
+                38.794136730699165,
+                54.59800316283827,
+                57.39652957236808,
+                59.94178745072122,
+                54.71674526666152,
+                59.541787599310055,
+                57.96628127979875,
+                53.157514667723945,
+                46.24395965989311,
+                41.298002333973045,
+                36.89957475820188
+            ],
+            "collection_loss": [
+                1012.524909790776,
+                968.2474830733373,
+                1273.7850216460529,
+                1319.1161076612098,
+                1365.3800840079732,
+                1357.280128568561,
+                1470.1047086353276,
+                1444.890182857389,
+                1298.9036699123621,
+                1153.3577870837776,
+                1031.1222451008668,
+                921.4268216019977
+            ]
+        },
+        "system_loss_src": [
+            {
+                "Irradiance": [
+                    {
+                        "initial_name": "Horizontal Global Irradiation",
+                        "initial_value": 1862.09,
+                        "units": "kWh/m2"
+                    },
+                    {
+                        "loss": "Global Incidence on PV plane",
+                        "percent": 13.92
+                    },
+                    {
+                        "loss": "Near Shading: irradiance loss",
+                        "percent": 0.0
+                    },
+                    {
+                        "loss": "Irradiance after reflection",
+                        "percent": -2.88
+                    },
+                    {
+                        "loss": "Soiling loss factor",
+                        "percent": -2.0
+                    }
+                ]
+            },
+            {
+                "DC": [
+                    {
+                        "initial_name": "Nominal Energy after PV conversion",
+                        "initial_value": 14691.16,
+                        "units": "kWh"
+                    },
+                    {
+                        "loss": "PV loss due to environmental condition",
+                        "percent": -7.1
+                    },
+                    {
+                        "loss": "Light Induced Degradation",
+                        "percent": -1.5
+                    },
+                    {
+                        "loss": "Mismatch loss, modules and strings",
+                        "percent": -1.5
+                    },
+                    {
+                        "loss": "Ohmic wiring loss",
+                        "percent": -1.0
+                    }
+                ]
+            },
+            {
+                "AC": [
+                    {
+                        "loss": "Clipping loss",
+                        "percent": -0.13
+                    },
+                    {
+                        "loss": "DC/AC conversion",
+                        "percent": -3.5
+                    },
+                    {
+                        "loss": "System Availability",
+                        "percent": 0.0
+                    },
+                    {
+                        "loss": "AC Ohmic loss",
+                        "percent": -1.0
+                    }
+                ]
+            }
+        ]
+    },
+    "frequently_asked_questions": [
+        {
+            "answer": "While the installed PV system is virtually maintenance free, there are steps owners can take to maximize system production. As production is based on sunlight striking the solar panels, dirt, leaves, or other debris will interfere with this production. Therefore, it is recommended that the panels be cleaned periodically, usually twice a year.",
+            "question": "Do I need to perform any maintenance on my system?"
+        },
+        {
+            "answer": "Your homeowner's insurance policy may cover your solar PV system in the event of a natural disaster or grid surge. Check your homeowner's policy for details.",
+            "question": "Do any additional warranties apply to my system?"
+        },
+        {
+            "answer": "With the installation of an energy-storage system you will be protected from grid outages. However, due to regulatory requirements, solar-only systems are designed to be grid interactive and produce energy only when grid power is present.",
+            "question": "Will I have power if there is a grid outage?"
+        },
+        {
+            "answer": "Your system includes a monitoring system which shows your system's energy production and (optional) home energy consumption. See contract for additional details.",
+            "question": "How can I see my solar system production and my home's energy consumption?"
+        },
+        {
+            "answer": "Yes! Many home and business owners initially install PV systems and then choose to add storage later, using their solar savings to help pay for the addition.",
+            "question": "Can I install solar now and add storage later?"
+        },
+        {
+            "answer": "Do any additional warranties apply to my system?",
+            "question": "Your homeowner's insurance policy may cover your solar PV system in the event of a natural disaster or grid surge. Check your homeowner's policy for details."
+        },
+        {
+            "answer": "Yes! Both systems are fully compatible and help stop global warming.",
+            "question": "Can I install solar if I have an electric vehicle?"
+        },
+        {
+            "answer": "This depends on the state where you reside. Residents of California are guaranteed solar access by the “California Solar Rights Act of 1978”. It prevents HOAs for denying solar or requiring changes that will either increase cost or decrease production by more than 20%. A copy of this can be made available to the applicant if needed.",
+            "question": "What if I am a member of a Home Owners Association? Can they prevent me from installing a PV system?"
+        },
+        {
+            "answer": "You can call us at (888) 888-8888 or reach us by email. Our friendly associates are here to help!",
+            "question": "Who can I call if I have questions about my system?"
+        }
+    ],
+    "team_members": {
+        "undefined1": {
+            "name": "name1",
+            "image": "./img/Ellipse 1.png",
+            "position": "position1",
+            "description": "description1"
+        },
+        "undefined2": {
+            "name": "name2",
+            "image": "./img/Ellipse 1.png",
+            "position": "position2",
+            "description": "description2"
+        }
+    },
+    "team_members_old": [
+        {
+            "answer": "While the installed PV system is virtually maintenance free, there are steps owners can take to maximize system production. As production is based on sunlight striking the solar panels, dirt, leaves, or other debris will interfere with this production. Therefore, it is recommended that the panels be cleaned periodically, usually twice a year.",
+            "question": "Do I need to perform any maintenance on my system?"
+        },
+        {
+            "answer": "Your homeowner's insurance policy may cover your solar PV system in the event of a natural disaster or grid surge. Check your homeowner's policy for details.",
+            "question": "Do any additional warranties apply to my system?"
+        },
+        {
+            "answer": "With the installation of an energy-storage system you will be protected from grid outages. However, due to regulatory requirements, solar-only systems are designed to be grid interactive and produce energy only when grid power is present.",
+            "question": "Will I have power if there is a grid outage?"
+        },
+        {
+            "answer": "Your system includes a monitoring system which shows your system's energy production and (optional) home energy consumption. See contract for additional details.",
+            "question": "How can I see my solar system production and my home's energy consumption?"
+        },
+        {
+            "answer": "Yes! Many home and business owners initially install PV systems and then choose to add storage later, using their solar savings to help pay for the addition.",
+            "question": "Can I install solar now and add storage later?"
+        },
+        {
+            "answer": "Do any additional warranties apply to my system?",
+            "question": "Your homeowner's insurance policy may cover your solar PV system in the event of a natural disaster or grid surge. Check your homeowner's policy for details."
+        },
+        {
+            "answer": "Yes! Both systems are fully compatible and help stop global warming.",
+            "question": "Can I install solar if I have an electric vehicle?"
+        },
+        {
+            "answer": "This depends on the state where you reside. Residents of California are guaranteed solar access by the “California Solar Rights Act of 1978”. It prevents HOAs for denying solar or requiring changes that will either increase cost or decrease production by more than 20%. A copy of this can be made available to the applicant if needed.",
+            "question": "What if I am a member of a Home Owners Association? Can they prevent me from installing a PV system?"
+        },
+        {
+            "answer": "You can call us at (888) 888-8888 or reach us by email. Our friendly associates are here to help!",
+            "question": "Who can I call if I have questions about my system?"
+        }
+    ],
+    "heat_map": "https://design-studio-app.s3.amazonaws.com/7182a29f-6efb-49a9-ba51-cfdb54eea852-heatMapImage.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220727%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T115939Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d921c50bbc4aef3b581a0bd55f0f575dbc53a1e6a95e483332379fb0fe672122",
+    "detailed_layout": "https://design-studio-app.s3.amazonaws.com/7182a29f-6efb-49a9-ba51-cfdb54eea852-sceneImage_Seg6bNU.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220727%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T115939Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=51e81d04ffc51ee7aff0b8f691557dd1394f40500f9cda436be96f26f612aad6",
+    "solar_access_image": "https://design-studio-app.s3.amazonaws.com/7182a29f-6efb-49a9-ba51-cfdb54eea852-solarAccessImage.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220727%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T115939Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ac9394ee3fcf6acb2d276cc6e36efdaea7f6d80b0abddb9ec0c421f2680bdcee",
+    "shadow_analysis_images": {
+        "shadow_summer_start_time_image": "https://design-studio-app.s3.amazonaws.com/7182a29f-6efb-49a9-ba51-cfdb54eea852-startTimeSummerShadow.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220727%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T115939Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2873d4a399e64893ac47012618bf7e3453ea2e1b51f6230bbafdd6bf863e6e0d",
+        "shadow_winter_start_time_image": "https://design-studio-app.s3.amazonaws.com/7182a29f-6efb-49a9-ba51-cfdb54eea852-startTimeWinterShadow.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220727%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T115939Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3c8e2149eaadf81149b257acdfb25d78a372b718f5f882d68e8b04f0edee41b3",
+        "shadow_summer_end_time_image": "https://design-studio-app.s3.amazonaws.com/7182a29f-6efb-49a9-ba51-cfdb54eea852-endTimeSummerShadow.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220727%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T115939Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e13b14df4bbaf3fdef9b61a6e9145877912f02e29ebaecc1d3f166b5eabb1359",
+        "shadow_winter_end_time_image": "https://design-studio-app.s3.amazonaws.com/7182a29f-6efb-49a9-ba51-cfdb54eea852-endTimeWinterShadow.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220727%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T115939Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=375508651b0041d81abba2ae497518b0ee3bbc0460c66367291712a0bbd2f778"
+    },
+    "pages": [
+        "system-metrics",
+        "components",
+        "title",
+        "monthly-production",
+        "monthly-table",
+        "environmental-impact",
+        "heat-map",
+        "about-us",
+        "thank-you",
+        "losses",
+        "field-segments",
+        "shadow-analysis"
+    ]
+}

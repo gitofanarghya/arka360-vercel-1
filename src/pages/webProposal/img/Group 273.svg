@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="762" height="498" viewBox="0 0 762 498">
+    <defs>
+        <filter id="5vyhg9f3sa" x="0" y="0" width="762" height="498" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".122"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 273">
+        <g style="filter:url(#5vyhg9f3sa)">
+            <rect data-name="Rectangle 1805" width="744" height="480" rx="4" transform="translate(9 6)" style="fill:#fff"/>
+        </g>
+        <path data-name="Rectangle 1774" transform="translate(68 398)" style="fill:#999" d="M0 0h664v1H0z"/>
+        <path data-name="Rectangle 1777" transform="translate(104 268)" style="fill:#409eff" d="M0 0h24v129H0z"/>
+        <text transform="translate(116 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-11.672" y="0">Jan</tspan></text>
+        <text data-name="341" transform="rotate(-90 199.5 78.5)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-24.416" y="0">341</tspan></text>
+        <path data-name="Rectangle 1783" transform="translate(269 123)" style="fill:#409eff" d="M0 0h24v274H0z"/>
+        <text data-name="733" transform="rotate(-90 210 -77)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-26.048" y="0">733</tspan></text>
+        <text transform="translate(281 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-12.776" y="0">Apr</tspan></text>
+        <path data-name="Rectangle 1779" transform="translate(158 236)" style="fill:#409eff" d="M0 0h24v161H0z"/>
+        <text data-name="423" transform="rotate(-90 211 35)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-27.872" y="0">423</tspan></text>
+        <text transform="translate(171 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-12.84" y="0">Feb</tspan></text>
+        <path data-name="Rectangle 1782" transform="translate(325 79)" style="fill:#409eff" d="M0 0h24v318H0z"/>
+        <text data-name="845" transform="rotate(-90 216 -127)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-28.656" y="0">845</tspan></text>
+        <text transform="translate(337 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-14.592" y="0">May</tspan></text>
+        <text transform="translate(381 467)" style="font-family:BrandonText-Bold,Brandon Text;font-weight:700;font-size:16px;fill:#222"><tspan x="-26.464" y="0">Months</tspan></text>
+        <path data-name="Rectangle 1780" transform="translate(213 162)" style="fill:#409eff" d="M0 0h24v235H0z"/>
+        <text data-name="622" transform="rotate(-90 201.5 -29.5)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-26.944" y="0">622</tspan></text>
+        <text transform="translate(226 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-13.752" y="0">Mar</tspan></text>
+        <text data-name="900 800 700 600 500 400 300 200 100 0" transform="translate(63 65)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-29.808" y="0">900</tspan><tspan x="-30.128" y="37.7">800</tspan><tspan x="-28.576" y="75.4">700</tspan><tspan x="-29.792" y="113.1">600</tspan><tspan x="-29.6" y="150.8">500</tspan><tspan x="-30.56" y="188.5">400</tspan><tspan x="-29.552" y="226.2">300</tspan><tspan x="-29.392" y="263.9">200</tspan><tspan x="-25.936" y="301.6">100</tspan><tspan x="-10.272" y="339.3">0</tspan></text>
+        <path data-name="Rectangle 1778" transform="rotate(90 13.5 70.5)" style="fill:#999" d="M0 0h341v1H0z"/>
+        <path data-name="Path 13" d="M0-2h24v320H0z" transform="translate(381 79)" style="fill:#409eff"/>
+        <text transform="translate(393 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-12.128" y="0">Jun</tspan></text>
+        <text data-name="846" transform="rotate(-90 243 -156)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-28.848" y="0">846</tspan></text>
+        <path data-name="Rectangle 1786" transform="translate(433 85)" style="fill:#409eff" d="M0 0h24v312H0z"/>
+        <text transform="translate(445 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-9.736" y="0">Jul</tspan></text>
+        <text data-name="832" transform="rotate(-90 273 -178)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-27.44" y="0">832</tspan></text>
+        <path data-name="Rectangle 1785" transform="translate(487 106)" style="fill:#409eff" d="M0 0h24v291H0z"/>
+        <text transform="translate(499 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-13.832" y="0">Aug</tspan></text>
+        <text data-name="777" transform="rotate(-90 310 -194)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-24.096" y="0">777</tspan></text>
+        <path data-name="Rectangle 1784" transform="translate(543 149)" style="fill:#409eff" d="M0 0h24v248H0z"/>
+        <text transform="translate(555 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-12.824" y="0">Sep</tspan></text>
+        <text data-name="662" transform="rotate(-90 360 -201)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-27.344" y="0">662</tspan></text>
+        <path data-name="Rectangle 1789" transform="translate(598 193)" style="fill:#409eff" d="M0 0h24v204H0z"/>
+        <text transform="translate(610 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-13.576" y="0">Oct</tspan></text>
+        <text data-name="540" transform="rotate(-90 409.5 -205.5)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-29.344" y="0">540</tspan></text>
+        <path data-name="Rectangle 1788" transform="translate(652 257)" style="fill:#409eff" d="M0 0h24v140H0z"/>
+        <text transform="translate(664 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-14.288" y="0">Nov</tspan></text>
+        <text data-name="387" transform="rotate(-90 468.5 -201.5)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-26.624" y="0">387</tspan></text>
+        <path data-name="Rectangle 1787" transform="translate(708 295)" style="fill:#409eff" d="M0 0h24v102H0z"/>
+        <text transform="translate(720 429)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-14.096" y="0">Dec</tspan></text>
+        <text data-name="280" transform="rotate(-90 515.5 -210.5)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#fff"><tspan x="-28.704" y="0">280</tspan></text>
+        <path data-name="Rectangle 1791" transform="translate(68 359)" style="fill:#999" d="M0 0h16v1H0z"/>
+        <path data-name="Rectangle 1792" transform="translate(68 321)" style="fill:#999" d="M0 0h16v1H0z"/>
+        <path data-name="Rectangle 1793" transform="translate(68 284)" style="fill:#999" d="M0 0h16v1H0z"/>
+        <path data-name="Rectangle 1794" transform="translate(68 246)" style="fill:#999" d="M0 0h16v1H0z"/>
+        <path data-name="Rectangle 1795" transform="translate(68 208)" style="fill:#999" d="M0 0h16v1H0z"/>
+        <path data-name="Rectangle 1796" transform="translate(68 170)" style="fill:#999" d="M0 0h16v1H0z"/>
+        <path data-name="Rectangle 1797" transform="translate(68 133)" style="fill:#999" d="M0 0h16v1H0z"/>
+        <path data-name="Rectangle 1798" transform="translate(68 57)" style="fill:#999" d="M0 0h16v1H0z"/>
+        <text data-name="kWh" transform="translate(67 37)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-34.128" y="0">kWh </tspan></text>
+        <path data-name="Rectangle 1995" transform="translate(68 95)" style="fill:#999" d="M0 0h16v1H0z"/>
+    </g>
+</svg>

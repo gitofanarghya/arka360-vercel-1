@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74.786" height="67.099" viewBox="0 0 74.786 67.099">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #409eff;
+      }
+    </style>
+  </defs>
+  <g id="alert_1_" data-name="alert (1)" transform="translate(0 -26.315)">
+    <g id="Group_48" data-name="Group 48" transform="translate(0 26.315)">
+      <g id="Group_47" data-name="Group 47" transform="translate(0 0)">
+        <path id="Path_41" data-name="Path 41" class="cls-1" d="M73.594,80.223,45.009,30.712a8.794,8.794,0,0,0-15.232,0L1.192,80.223A8.794,8.794,0,0,0,8.808,93.414h57.17a8.794,8.794,0,0,0,7.616-13.191Zm-3.795,6.6a4.368,4.368,0,0,1-3.821,2.206H8.808a4.412,4.412,0,0,1-3.821-6.619L33.572,32.9a4.412,4.412,0,0,1,7.643,0L69.8,82.414A4.368,4.368,0,0,1,69.8,86.826Z" transform="translate(0 -26.315)"/>
+      </g>
+    </g>
+    <g id="Group_50" data-name="Group 50" transform="translate(35.202 48.18)">
+      <g id="Group_49" data-name="Group 49" transform="translate(0 0)">
+        <rect id="Rectangle_162" data-name="Rectangle 162" class="cls-1" width="4.381" height="21.907"/>
+      </g>
+    </g>
+    <g id="Group_52" data-name="Group 52" transform="translate(34.472 74.47)">
+      <g id="Group_51" data-name="Group 51" transform="translate(0 0)">
+        <path id="Path_42" data-name="Path 42" class="cls-1" d="M238.923,355.99a2.921,2.921,0,1,0,2.921,2.921A2.924,2.924,0,0,0,238.923,355.99Z" transform="translate(-236.002 -355.99)"/>
+      </g>
+    </g>
+  </g>
+</svg>

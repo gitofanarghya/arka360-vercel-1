@@ -1,0 +1,106 @@
+@import '../mixins/sappane-value.mixin';
+@import '../mixins/darkDropdown.mixin';
+
+.sappane-select {
+    width: 65%;
+    float: right;
+    font-size: 12px;
+
+    input {
+        @include sappane-value();
+        text-align: center;
+        background-color: #050505;
+        color: #fafafa;
+        display: flex;
+        box-sizing: border-box;
+        padding-right: 5px !important;
+        height: 1.2vw !important;
+
+        &:disabled {
+            background-color: #050505 !important;
+            color: #fafafa !important;
+        }
+    }
+
+    .el-select__caret {
+        display: none;
+    }
+}
+
+.text-toolbar-select {
+    width: 15%;
+    // height: 15%;
+    float: center;
+    font-size: 15px;
+
+    input {
+        @include sappane-value();
+
+        background-color: #050505;
+        color: #fafafa;
+        display: flex;
+        box-sizing: border-box;
+        padding-right: 5px !important;
+        // padding-top: 5px !important;
+        height: 1.2vw !important;
+
+        &:disabled {
+            background-color: #050505 !important;
+            color: #fafafa !important;
+        }
+    }
+
+    .el-select__caret {
+        display: none;
+    }
+}
+
+//TODO: Need to append this inside sap pane select
+.darkDropdownWithFilters {
+    @include darkDropdown();
+    min-width: 500px !important;
+    right: 1vw;
+    left: auto !important;
+
+    .el-scrollbar__view {
+        margin: 39px 0 0 0 !important;
+    }
+
+    .filter-div-light {
+        background: #2a2a2a;
+        padding: 0 10px;
+    }
+
+    .el-scrollbar__bar {
+        top: 49px !important;
+    }
+
+    .el-select-dropdown__item {
+        font-size: 11px;
+    }
+}
+
+.darkDropdownForStructureType {
+    @include darkDropdown();
+    min-width: 420px !important;
+    right: 1vw;
+    width: 200px !important;
+    left: auto !important;
+
+    .filter-div-light {
+        background: #2a2a2a;
+        padding: 0 20px;
+    }
+
+    .el-scrollbar__bar {
+        top: 49px !important;
+    }
+
+    .el-select-dropdown__item {
+        font-size: 11px;
+    }
+}
+
+.darkDropdown {
+    @include darkDropdown();
+}

@@ -1,0 +1,9 @@
+{ 
+  "tests": [
+    "cylinderTest",
+    "polygonTest"
+  ],
+  "majorTests": [
+    "cylinderTest"
+  ]
+}

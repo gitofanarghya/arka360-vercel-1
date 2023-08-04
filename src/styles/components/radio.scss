@@ -1,0 +1,65 @@
+.sappane-radio-wrapper {
+    display: flex;
+    .el-radio-group {
+        margin: 0;
+        display: inline-flex;
+        justify-content: flex-end;
+        align-items: center;
+        flex-grow: 1;
+
+        label {
+
+            .el-radio-button__inner {
+                color: white;
+                background-color: inherit !important;
+                border: none !important;
+                padding: 0 0 0 5px !important;
+                box-sizing: border-box;
+                text-align: right;
+                word-wrap: break-word;
+                font-size: 0.83vw;
+            }
+        }
+    }
+
+    .el-radio-button__orig-radio:checked + .el-radio-button__inner {
+        color: #409eff !important;
+        outline: 0 !important;
+        box-shadow: none !important;
+    }
+}
+
+.radio-sidebar {
+    display: flex;
+    .el-radio-group {
+        margin: 5;
+        display: inline-flex;
+        justify-content: flex-end;
+        align-items: center;
+        flex-grow: 1;
+
+        label {
+            
+            .el-radio-button__inner {
+                color: white;
+                background-color: inherit !important;
+                border: none !important;
+                padding: 5px !important;
+                box-sizing: border-box;
+                text-align: right;
+                word-wrap: break-word;
+                font-size: 0.83vw;
+            }
+        }
+    }
+    .el-radio__inner {
+        display: inline-table !important;
+        margin-left: 10px !important;
+    }
+
+    .el-radio-button__orig-radio:checked + .el-radio-button__inner {
+        color: #409eff !important;
+        outline: 0 !important;
+        box-shadow: none !important;
+    }
+}

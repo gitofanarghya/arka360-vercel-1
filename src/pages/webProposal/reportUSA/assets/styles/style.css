@@ -1,0 +1,2009 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    word-break: break-word;
+}
+
+
+.boldColor {
+    font-weight: bold;
+    color: #222;
+    margin: 0px;
+}
+
+.potrait_screen {
+    margin: 0px auto;
+    width: 595px;
+    height: auto;
+}
+
+.SolarProjectProposal {
+    height: 841px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.headerContentTwo {
+    height: 70px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 184px;
+}
+
+.logo {
+    /* width: 140px; */
+    max-width: 140px;
+    max-height: 70px;
+    object-fit: contain;
+}
+
+.SolarProjectProposal .headerTwo {
+    background-color: #ecdb41;
+    padding: 16px 0px 20px 0px;
+}
+
+.SolarProjectProposal .headerTwo .headerTwoContentOne {
+    font-size: 40px;
+    text-align: center;
+    margin: 0px 0px 11px 0px;
+}
+
+.SolarProjectProposal .headerTwo .headerTwoContentTwo {
+    font-size: 23px;
+    text-align: center;
+    margin: 0px;
+}
+
+.SolarProjectProposal .contContainer {
+    background-color: #ecdb41;
+    width: 41%;
+    margin: 24px 0px 24px 24px;
+    padding: 20px;
+    border-radius: 4px;
+    height: 550px;
+    position: relative;
+}
+
+.SolarProjectProposal .contContainer .preparedFor {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.SolarProjectProposal .contContainer .firstName {
+    word-break: break-word;
+    font-size: 28px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    line-height: 1.3;
+}
+
+.phNoOne {
+    font-size: 15px;
+    word-break: break-all;
+    margin: 6px 0px;
+    font-weight: 100;
+}
+
+.SolarProjectProposal .contContainer hr {
+    background-color: #222222;
+    height: 1px;
+    margin: 14px 0px 14px 0px;
+}
+
+.SolarProjectProposal .contContainer .userInfo {
+    /* height: 270px; */
+}
+
+.userInfo .address {
+    font-size: 18px;
+    margin: 4px 0px;
+    word-break: break-word;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    line-height: 1.3;
+}
+
+.mailOne {
+    font-size: 14px;
+    margin: 6px 0px;
+    word-break: break-word;
+    width: 238px;
+}
+
+.preparedByContainer {
+    position: absolute;
+    bottom: 24px;
+    padding-right: 20px;
+}
+
+.preparedByContainer .preparedBy {
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+
+.preparedByContainer .nameBy {
+    font-size: 28px;
+    word-break: break-word;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    line-height: 1.3;
+}
+
+.preparedByContainer .tata {
+    font-size: 28px;
+    word-break: break-word;
+    margin: 0px 0px 8px 0px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    line-height: 1.3;
+}
+
+.preparedByContainer .mailBy,
+.preparedByContainer .phNo {
+    font-size: 15px;
+    word-break: break-all;
+    margin: 4px 0px;
+    font-weight: 100;
+}
+
+
+
+.preparedByContainer .lic {
+    font-size: 15px;
+    margin: 0px;
+    font-weight: 500;
+}
+
+
+
+/* -- ----------------------------------------Application---------------------------------- */
+
+.application_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.headerRep {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 20px;
+    height: 94px;
+    box-sizing: border-box;
+}
+
+.headerName {
+    margin: 4px 0px;
+    font-weight: 600;
+    font-size: 16px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    width: 278px;
+}
+
+.headerAddress {
+    margin: 4px 0px;
+    font-weight: 500;
+    font-size: 16px;
+    width: 278px;
+    word-break: break-word;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    line-height: 1.3;
+}
+
+.hrHeaderAPL {
+    color: #999;
+}
+
+.contentContainerAPL {
+    margin: 24px 20px;
+}
+
+.paraOneAPL {
+    font-weight: 600;
+    word-break: break-word;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 8px;
+}
+
+.appHeadAPL {
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+
+.boldAPL {
+    font-weight: 600;
+}
+
+.paraTwoAPL,
+.paraThreeAPL,
+.paraFourAPL,
+.paraFiveAPL,
+.sincerelyAPL {
+    font-weight: 500;
+    word-break: break-word;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 6px;
+}
+
+.hrFooter {
+    color: #999;
+    margin: 0px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footerContent {
+    text-align: right;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 4px 20px;
+    margin: 16px 0px;
+}
+
+.bold2 {
+    font-weight: 600;
+}
+
+
+/* -- ----------------------------------------company overview---------------------------------- */
+
+
+
+.CompanyOverview_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.secHeaderCO {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentCO {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.contentCO {
+    padding: 16px 24px;
+}
+
+.contentOneCO,
+.contentTwoCO {
+    font-size: 15px;
+    word-break: break-word;
+    margin-bottom: 14px;
+}
+
+.contentImgCO {
+    display: flex;
+    padding: 8px 24px 14px 24px;
+    justify-content: space-between;
+}
+
+.imgContainerCO {
+    width: 175px;
+}
+
+.contentHeadingCO {
+    font-size: 22px;
+    font-weight: 600;
+    word-break: break-word;
+    margin: 24px 0px 0px 0px;
+    padding-left: 16px;
+    border-left: 4px solid #ecdb41;
+}
+
+.hrHihiCO {
+    width: 25%;
+    margin: 16px 0px 0px 0px;
+    border: 1px solid #222;
+}
+
+.headCO {
+    margin: 24px 24px 0px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #263342;
+}
+
+.imgCO {
+    width: 100%;
+    height: 168px;
+    object-position: center;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.captionCO {
+    font-size: 14px;
+    margin: 0px;
+    color: #263342;
+    word-break: break-word;
+}
+
+
+/* --------------------------------------------our team--------------------- */
+
+
+.ourTeam_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.secHeaderOT {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentOT {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+
+}
+
+.ourTeamContainerOT {
+    margin: 16px 24px;
+}
+
+.ourTeamContOT:nth-child(2n) {
+    border-radius: 2px;
+    background-color: #f0f3f8;
+}
+
+.ourTeamContOT {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+}
+
+.imgOT {
+    width: 80px;
+    height: 80px;
+    margin-right: 16px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+.nameOT {
+    font-size: 16px;
+    font-weight: bold;
+    color: #263342;
+    margin: 0px 0px 4px 0px;
+    word-break: break-word;
+}
+
+.valueOT {
+    font-size: 13px;
+    font-weight: 100;
+    color: #222;
+    word-break: break-word;
+    margin: 0px 0px 8px 0px;
+    line-height: 1.4;
+}
+
+
+/* ------------------------------system layout -------------------- */
+
+.systemLayout_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.secHeaderSL {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentSL {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.imgContainerSL {
+    margin: 24px 24px 16px 24px;
+    border: 20px solid #f0f3f8;
+    border-radius: 8px;
+}
+
+.imgSL {
+    width: 509px;
+    height: 295px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 8px;
+}
+
+.scannerContSL {
+    margin: 8px 24px;
+    text-align: center;
+}
+
+.absoluteContSL {}
+
+.scannerImgSL {
+    width: 110px;
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+
+.absoluteSL {
+    font-size: 14px;
+    font-weight: 100;
+    word-break: break-word;
+    margin: 0px;
+    text-align: center;
+    color: #222;
+}
+
+.btnSL {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.aTagSL {
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    background-color: #3092f7;
+    text-decoration: none;
+    padding: 10px 16px;
+    border-radius: 4px;
+}
+
+
+/* ------------------------------system details -------------------- */
+
+
+.systemDetails_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contentContainer {}
+
+.secHeaderSDS {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentSDS {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.tableContainerSDS {
+    padding: 14px 24px;
+}
+
+.customersSDS2Class {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+
+.tableHeaderWidthSDS {
+    padding: 10px 16px;
+    white-space: nowrap;
+}
+
+.oneHead {
+    padding: 10px 8px 10px 16px;
+}
+
+.twoHead {
+    padding: 10px 8px;
+}
+
+.threeHead {
+    padding: 10px 8px;
+}
+
+.fourHead {
+    padding: 10px 16px 10px 8px;
+}
+
+.tablevalueWidthSDS {
+    word-break: break-word;
+    padding-left: 16px;
+    padding: 10px 16px;
+    line-height: 1.5;
+}
+
+.firTble {
+    width: 25%;
+    padding: 10px 8px 10px 16px;
+}
+
+.secTble {
+    width: 60%;
+    padding: 10px 8px;
+}
+
+/* .thrTble {
+    width: 35%;
+    padding: 10px 8px;
+} */
+
+.frTble {
+    width: 15%;
+    padding: 10px 16px 10px 8px;
+}
+
+.tablevalueSDS:nth-child(even) {
+    background-color: #f0f3f8;
+}
+
+.tableHeadingSDS {
+    margin: 8px 0px 8px 0px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.tableHeading2SDS {
+    margin: 24px 0px 8px 0px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#customersSDS {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableHeaderSDS {
+    background-color: #263342;
+    color: #ffffff;
+    font-size: 13px;
+    text-align: left;
+    vertical-align: baseline;
+}
+
+.thHeadSDS {
+    white-space: nowrap;
+}
+
+.thHeadSDS,
+.thValueSDS {
+    word-break: break-word;
+    padding-left: 16px;
+    padding: 10px 0px 10px 16px;
+}
+
+.tablevalueSDS {
+    font-size: 13px;
+    color: #222;
+    text-align: left;
+    vertical-align: baseline;
+    word-break: break-word;
+
+}
+
+
+/* ------------------------------warranty-------------------- */
+
+.systemWarranty_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contentContainer {}
+
+.secHeaderWTY {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentWTY {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.tableContainerWTY {
+    margin: 14px 24px;
+}
+
+#customersWTY {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableHeaderWidthWTY {
+    padding: 10px 16px;
+    word-break: break-word;
+    white-space: nowrap;
+}
+
+.tablevalueWidthWTY {
+    word-break: break-word;
+    padding: 10px 0px 10px 16px;
+    line-height: 1.5;
+}
+
+.oneWTY {
+    width: 16%;
+}
+
+.twoWTY {
+    width: 28%;
+}
+
+.threeWTY {
+    width: 28%;
+}
+
+.fourWTY {
+    width: 28%;
+}
+
+.tablevalueWTY:nth-child(even) {
+    background-color: #f0f3f8;
+}
+
+.tableHeadingWTY {
+    margin: 8px 0px 8px 0px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.tableHeading2WTY {
+    margin: 24px 0px 8px 0px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.tablevalueWTY {
+    font-size: 13px;
+    color: #222;
+    text-align: left;
+    vertical-align: baseline;
+    word-break: break-word;
+}
+
+.paraWTY {
+    font-size: 13px;
+    word-break: break-word;
+    font-weight: 500;
+    color: #222;
+    margin-top: 4px;
+    line-height: 1.5;
+}
+
+
+/* ------------------------------Estimated Annual Production -------------------- */
+
+.annualProduction_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contentContainer {}
+
+.secHeaderEAP {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentEAP {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.graphContainerEAP {
+    padding: 8px 24px;
+}
+
+.graphContentEAP {
+    font-size: 14px;
+    word-break: break-word;
+    margin-bottom: 8px;
+}
+
+.graphImgEAP {
+    width: 546px;
+}
+
+.paraEAP {
+    margin: 0px;
+    font-size: 12px;
+    color: #222;
+    word-break: break-word;
+    margin-top: 14px;
+    margin-bottom: 8px;
+}
+
+.flexContainerEAP {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.avgGenEAP,
+.yrDegEAP {
+    font-size: 14px;
+    word-break: break-word;
+    margin-bottom: 8px;
+}
+
+.avgGenValueEAP,
+.yrDegValueEAP {
+    font-size: 15px;
+    word-break: break-word;
+    color: #409eff;
+    margin: 0;
+    font-weight: 600;
+}
+
+
+/* ------------------------------Estimated Monthly Savings -------------------- */
+
+
+.monthlyProduction_section {
+    height: fit-content;
+    padding-bottom: 65px;
+    min-height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contentContainer {}
+
+.secHeaderEMS {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentEMS {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.graphContainerEMS {
+    padding: 8px 24px;
+}
+
+.graphContentEMS {
+    font-size: 14px;
+    word-break: break-word;
+    line-height: 1.5;
+    margin-bottom: 8px;
+}
+
+.graphImgEMS {
+    width: 546px;
+}
+
+.flexContainerEMS {
+    display: flex;
+    justify-content: space-between;
+}
+
+.avgGenEMS,
+.yrDegEMS {
+    font-size: 14px;
+    word-break: break-word;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+.avgGenValueEMS,
+.yrDegValueEMS {
+    font-size: 15px;
+    word-break: break-word;
+    color: #409eff;
+    margin: 0;
+    font-weight: 600;
+}
+
+.diduKnowContEMS {
+    border-radius: 4px;
+    background-color: #f0f3f8;
+    margin-top: 32px;
+    position: relative;
+    padding: 8px;
+}
+
+.diduKnowEMS {
+    background-color: #ecdb41;
+    border-radius: 4px;
+    position: absolute;
+    padding: 8px;
+    padding: 6px;
+    top: -14px;
+    left: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.diduKnowValueEMS {
+    font-size: 14px;
+    font-weight: 500;
+    margin: 16px 0px 4px 0px;
+    line-height: 1.5;
+    word-break: break-word;
+}
+
+
+/* -------------------------------------------------------Cost of Not Going Solar----------------------------------- */
+
+.costofnotgoingsolar_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contentContainer {}
+
+.secHeaderCGS {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentCGS {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.graphContainerCGS {
+    padding: 8px 24px;
+}
+
+.graphContentCGS {
+    font-size: 14px;
+    word-break: break-word;
+    line-height: 1.5;
+    margin-bottom: 8px;
+}
+
+.graphImgCGS {
+    width: 546px;
+}
+
+.flexContainerCGS {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 13px;
+}
+
+.avgGenContainerCGS,
+.yrDegContainerCGS {
+    display: flex;
+}
+
+.avgGenCGS,
+.yrDegCGS {
+    font-size: 14px;
+    word-break: break-word;
+    margin-bottom: 8px;
+}
+
+.avgGenValueCGS,
+.yrDegValueCGS {
+    font-size: 15px;
+    word-break: break-word;
+    color: #222222;
+    margin: 0;
+}
+
+.paraCGS {
+    font-size: 14px;
+    margin-top: 24px;
+    line-height: 1.5;
+}
+
+.sqBlueCGS {
+    width: 32px;
+    height: 16px;
+    background-color: #409eff;
+    border-radius: 2px;
+    margin-right: 8px;
+}
+
+.sqGreyCGS {
+    width: 32px;
+    height: 16px;
+    background-color: #ff8d8f;
+    border-radius: 2px;
+    margin-right: 8px;
+}
+
+
+/* -------------------------------------------------------Site Evaluation----------------------------------- */
+
+.siteEvaluation_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contentContainer {}
+
+.secHeaderSE {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentSE {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.paraSE {
+    font-size: 14px;
+    font-weight: 500;
+    word-break: break-word;
+    margin: 16px 24px 8px 24px;
+}
+
+.headingSE {
+    font-size: 16px;
+    color: #263342;
+    margin: 16px 24px 8px 24px;
+    font-weight: 600;
+}
+
+.imagesContainerSE {
+    margin: 0px 24px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 16px;
+}
+
+.imageContSE {
+    width: 100%;
+}
+
+.imgContentSE {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.imgSE {
+    width: 257px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 8px;
+}
+
+.summarySE {
+    font-size: 14px;
+    margin-left: 24px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.boldSE {
+    font-weight: 600;
+}
+
+
+/* -------------------------------------------------------Site Evaluation Two----------------------------------- */
+
+.siteEvaluationTwo_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contentContainer {}
+
+.secHeaderSETwo {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentSETwo {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.paraSETwo {
+    font-size: 14px;
+    font-weight: 500;
+    word-break: break-word;
+    margin: 16px 24px 0px 24px;
+}
+
+.imagesContainerSETwo {
+    margin: 0px 24px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 16px;
+}
+
+.imageContSETwo {
+    width: 100%;
+}
+
+.imgContentSETwo {
+    font-size: 14px;
+    margin: 16px 0;
+    color: #263342;
+}
+
+.infoSETwo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+    background-image: linear-gradient(to left, #b2cd3e, #b2cd3e, #b2cd3e, #fa9656, #fa9656, #fa9656, #fa9656, #f16840, #f16840, #e84c2b, #aa489a, #7b2b91, #7b2b91);
+    padding: 6px 16px;
+    border-radius: 4px;
+}
+
+.infoSEThree{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+    padding: 6px 16px;
+    border-radius: 4px;
+    background-image: linear-gradient(to left, #1a9850, #1a9850, #47ae5b, #b6e074,  #fee28f, #f6da86 , #f6da86 , #fa9656 ,  #fa9656 , #f16840 , #f16840 , #f16840 , #e44023 , #e44023);
+}
+
+.gradText {
+    margin: 0px;
+    font-size: 14px;
+}
+
+
+.betterBoxSETwo {
+    height: 12px;
+    width: 13px;
+    background-color: #f06640;
+    border-radius: 2px;
+}
+
+.bestBoxSETwo {
+    height: 12px;
+    width: 13px;
+    background-color: #b6e074;
+    border-radius: 2px;
+}
+
+.exBoxSETwo {
+    height: 12px;
+    width: 13px;
+    background-color: #1a9850;
+    border-radius: 2px;
+}
+
+.poorSETwo {
+    font-size: 14px;
+    margin-left: -8px;
+}
+
+.imgHeadSETwo {
+    font-size: 16px;
+    color: #263342;
+    margin: 16px 0px 8px 0px;
+}
+
+.imgSETwo {
+    width: 257px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 8px
+}
+
+/* -------------------------------------------------------Project Economics----------------------------------- */
+
+.projectEconomics_section {
+    height: fit-content;
+    padding-bottom: 65px;
+    min-height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contentContainer {}
+
+.secHeaderPE {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentPE {
+    font-size: 38px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.secHeaderContentTwoPE {
+    font-size: 30px;
+}
+
+.gridOnePE {
+    margin: 10px 24px 0px 24px;
+    display: grid;
+    grid-template-columns: 31% 31% 32%;
+    grid-gap: 16px;
+    row-gap: 0px;
+}
+
+.gcontPE {
+    color: #777;
+    font-size: 16px;
+    margin-bottom: 4px;
+    margin-top: 8px;
+    font-weight: 600;
+    word-break: break-word;
+}
+
+.gValuePE {
+    color: #222222;
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-weight: 600;
+    margin: 0px;
+    padding-bottom: 13px;
+    border-bottom: 8px solid #f0f3f8;
+    word-break: break-word;
+}
+
+.gridTwoPE {
+    margin: 16px 24px 8px 24px;
+    display: grid;
+    grid-template-columns: 31% 31% 32%;
+    grid-gap: 16px;
+    row-gap: 16px;
+}
+
+.gcontTwoPE {
+    color: #263342;
+    font-size: 16px;
+    word-break: break-word;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.gValueTwoPE {
+    color: #222222;
+    font-size: 14px;
+    margin-bottom: 8px;
+    font-weight: 500;
+    margin: 0px;
+    word-break: break-word;
+}
+
+.imgPE {
+    margin: 14px 24px;
+    width: 547px;
+}
+
+.diduKnowContPE {
+    border-radius: 4px;
+    background-color: #f0f3f8;
+    position: relative;
+    padding: 8px;
+    margin: 14px 24px;
+}
+
+.diduKnowPE {
+    background-color: #ecdb41;
+    border-radius: 4px;
+    position: absolute;
+    padding: 8px;
+    padding: 6px;
+    top: -14px;
+    left: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.diduKnowValuePE {
+    font-size: 14px;
+    font-weight: 500;
+    margin: 16px 0px 4px 0px;
+    word-break: break-word;
+    line-height: 1.5;
+}
+
+/* -------------------------------------------------------Summary and Approvals----------------------------------- */
+
+.summaryandApprovals_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contentContainer {}
+
+.secHeaderSAA {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentSAA {
+    font-size: 38px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.containerSAA {
+    margin: 16px 24px;
+}
+
+.headingsSAA {
+    word-break: break-word;
+    font-size: 14px;
+    font-weight: bold;
+    color: #263342;
+    margin: 8px 0px;
+}
+
+.gridSAA {
+    display: grid;
+    grid-template-columns: 45% 55%;
+    column-gap: 16px;
+}
+
+.valueSAA,
+.sumSAA {
+    font-size: 13px;
+    color: #222222;
+    margin: 4px 0px;
+}
+
+.hrSAA {
+    margin: 8px 0px;
+}
+
+.flexContSAA {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flexInfoSAA {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.flexValueSAA {
+    font-size: 13px;
+    font-weight: 500;
+    margin: 8px 0px;
+}
+
+.addChargesSAA {
+    margin: 4px 0px 0px 0px;
+    font-size: 13px;
+    font-weight: 100;
+    word-break: break-word;
+    color: #263342;
+}
+
+.roiContainerSAA {
+    margin: 10px 0px;
+}
+
+.roiSAA {
+    font-size: 14px;
+    font-weight: bold;
+    color: #222;
+    word-break: break-word;
+    margin: 8px 0px 8px 0px;
+}
+
+.listRoiSAA {
+    font-size: 13px;
+    font-weight: 500;
+    color: #263342;
+    word-break: break-word;
+    margin: 4px 0px 4px 0px;
+}
+
+.signatureContainerSAA {
+    display: grid;
+    margin: 16px 0px;
+    grid-template-columns: auto auto;
+    grid-gap: 58px;
+    row-gap: 0px;
+}
+
+.signSAA {
+    width: 100px;
+    height: 20px;
+    border-bottom: #999;
+    text-align: center;
+}
+
+.sigContentSAA {
+    font-size: 13px;
+    font-weight: 100;
+    color: #263342;
+    border-top: 1px solid #ccc;
+    padding-top: 8px;
+    word-break: break-word;
+    margin-bottom: 8px;
+}
+
+.ucSAA {
+    margin: 0px 0px 8px 0px;
+    font-weight: 600;
+    color: #222;
+    font-size: 13px;
+    word-break: break-word;
+}
+
+.utSAA {
+    margin: 0px 0px 8px 0px;
+    font-weight: 500;
+    color: #222;
+    font-size: 13px;
+    word-break: break-word;
+}
+
+.tcnSAA {
+    margin: 0px 0px 8px 0px;
+    font-weight: 500;
+    color: #222;
+    font-size: 13px;
+    word-break: break-word;
+}
+
+.ulSAA{
+    list-style: initial;
+    margin-left: 16px;
+}
+
+/* -------------------------------------------------------Frequently Asked Questions----------------------------------- */
+
+.FAQ_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.secHeaderFAQ {
+    background-color: #ecdb41;
+    padding: 14px 24px;
+}
+
+.secHeaderContentFAQ {
+    font-size: 38px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.quesContainerFAQ {
+    margin: 14px 24px;
+}
+
+.quesContainerTwoFAQ {
+    margin: 24px;
+}
+
+.quesFAQ {
+    font-size: 13px;
+    font-weight: 600;
+    word-break: break-word;
+    margin: 0px 0px;
+}
+
+.ansFAQ {
+    color: #777777;
+    font-size: 13px;
+    margin: 0px;
+    word-break: break-word;
+    line-height: 1.4;
+}
+
+.ansFlexFAQ {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 8px;
+}
+
+.huihuiFAQ {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0px;
+    overflow: initial;
+}
+
+.huihuiAnsFAQ {
+    color: #777;
+    font-weight: 600;
+    font-size: 13px;
+    margin: 0px;
+    overflow: initial;
+}
+
+.dotPositionFAQ {
+    list-style-position: outside;
+    padding-left: 24px;
+    margin: 0px 0px 8px 0px;
+}
+
+.liAnsFAQ {
+    font-size: 14px;
+    font-weight: 500;
+    word-break: break-word;
+    color: #777777;
+    margin-left: 24px;
+    margin-bottom: 8px;
+}
+
+.liAnsFAQ::marker {
+    color: #222;
+    font-size: 16px;
+}
+
+.qansFAQ {
+    margin: 10px 0px 12px 0px;
+    color: #ccc;
+    opacity: 0.5;
+}
+
+.liHrFAQ {
+    margin-top: 12px;
+}
+
+/* ------------------------------------------------------next step-------------------------------------- */
+
+
+.nextStep_section {
+    height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.nextStepContainerNS {
+    margin: 24px;
+}
+
+.flexContNS {
+    display: flex;
+    align-items: center;
+    padding: 13px;
+}
+
+.flexContNS:nth-child(odd) {
+    background-color: #f0f3f8;
+}
+
+.countNS {
+    color: #ecdb41;
+    margin: 0px;
+    font-size: 35px;
+    margin-right: 24px;
+    word-break: keep-all;
+    font-weight: 600;
+}
+
+.valueNS {
+    color: #222;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0px;
+    word-break: break-word;
+    line-height: 1.5;
+}
+
+
+
+/* ------------------------------------------------------Additional Information----------------------------------------------- */
+
+
+.additionalInfo_section{
+    height: fit-content;
+    padding-bottom: 65px;
+    min-height: 841px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 24px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.nextStepContainerADI {
+    margin: 12px 24px 12px 24px;
+}
+
+.paraADI {
+    line-height: 1.3;
+    font-size: 11px;
+    margin-bottom: 8px;
+    color: #222;
+    word-break: break-word;
+}
+
+.nextStepContainerTwoADI {
+    margin: 12px 24px 12px 24px;
+}
+
+.listContADI {
+    list-style-position: outside;
+    list-style: initial;
+    margin-left: 16px;
+}
+
+.listADI {
+    line-height: 1.3;
+    font-size: 12px;
+    margin-bottom: 8px;
+    color: #222;
+    word-break: break-word;
+}
+
+.aADI {
+    color: #409eff;
+}
+
+#customersADI {
+    width: 100%;
+    border-collapse: collapse;
+    border-bottom: 1px solid #ccc;
+}
+
+.tableHeaderADI {
+    background-color: #263342;
+    color: #ffffff;
+    font-size: 11px;
+    text-align: left;
+    vertical-align: baseline;
+}
+
+.tableHeaderWidthADI {
+    padding: 6px 10px;
+    word-break: break-word;
+    border: 1px solid #ccc;
+}
+
+.tablevalueWidthADI {
+    word-break: break-word;
+    padding: 6px 2px 6px 10px;
+    line-height: 1.5;
+}
+
+.tablevalueADI {
+    font-size: 10px;
+    color: #222;
+    text-align: left;
+    vertical-align: baseline;
+    word-break: break-word;
+}
+
+.tablevalueADI:nth-child(even) {
+    background-color: #f0f3f8;
+}
+
+.tableBorderADI {
+    border-right: 1px solid #ccc;
+    width: 150px;
+    word-break: break-word;
+    padding: 6px 6px 6px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------------------thank you -------------------------------------- */
+
+.thankYou_section {
+    margin-top: 24px;
+    border: 1px solid #ccc;
+    margin-bottom: 24px;
+    height: 841px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.08);
+}
+
+.thankYouSec {
+    position: relative;
+    height: 620px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footerThanku {
+    border-top: 10px solid #ecdb41;
+    padding: 0px 24px;
+}
+
+.thankU {
+    font-size: 30px;
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 16px;
+    margin-top: 24px;
+}
+
+.gridTY {
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 70px;
+    margin-bottom: 8px;
+}
+
+.flexTY {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 30px auto;
+    margin: 0px 0px 8px 0px;
+}
+
+.imgBorder {
+    height: 30px;
+    width: 30px;
+    background-color: #263342;
+    border-radius: 4px;
+    position: relative;
+}
+
+.iconTY {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 16px;
+}
+
+.mailTY {
+    font-size: 17px;
+    color: #222;
+    word-break: break-word;
+    margin: 8px 0px;
+    margin-left: 13px;
+
+}
+
+
+
+
+@media (max-width: 648px) {
+    .potrait_screen {
+        width: 100%;
+        overflow: hidden;
+      }
+
+    .secHeaderMD {
+        padding: 14px;
+    }
+
+    .headerContentOne {
+        width: 60%;
+    }
+
+    .headerRep {
+        gap: 12px;
+        padding: 14px;
+    }
+
+    .headerName,
+    .headerAddress {
+        font-size: 14px;
+    }
+
+    .headerAddress {
+        width: 100%;
+    }
+
+    .headerContentTwo {
+        height: 60px;
+        width: 120px;
+    }
+
+    .logo {
+        max-width: 120px;
+        max-height: 60px;
+    }
+
+    .application_section,
+    .CompanyOverview_section,
+    .ourTeam_section,
+    .systemLayout_section,
+    .systemDetails_section,
+    .siteEvaluation_section,
+    .summaryandApprovals_section,
+    .siteEvaluationTwo_section,
+    .nextStep_section,
+    .FAQ_section{
+        height: fit-content;
+        padding-bottom: 65px;
+        min-height: 841px;
+    }
+
+    .secHeaderContentCO,
+    .secHeaderContentOT,
+    .secHeaderContentSL,
+    .secHeaderContentSDS,
+    .secHeaderContentSE,
+    .secHeaderContentSETwo,
+    .secHeaderContentPE,
+    .secHeaderContentWTY,
+    .SolarProjectProposal .headerTwo .headerTwoContentOne {
+        font-size: 30px;
+    }
+
+    .secHeaderContentEAP,
+    .secHeaderContentEMS,
+    .secHeaderContentCGS,
+    .secHeaderContentSAA,
+    .secHeaderContentFAQ,
+    .preparedByContainer .tata {
+        font-size: 23px;
+    }
+
+    .SolarProjectProposal {
+        background-position-x: 72%;
+    }
+
+    .SolarProjectProposal .headerTwo .headerTwoContentTwo,
+    .SolarProjectProposal .contContainer .firstName,
+    .preparedByContainer .nameBy {
+        font-size: 18px;
+    }
+
+    .SolarProjectProposal .contContainer {
+        width: 50%;
+        margin: 24px 0px 24px 16px;
+        padding: 14px;
+    }
+
+    .SolarProjectProposal .contContainer .preparedFor,
+    .preparedByContainer .preparedBy,
+    .preparedByContainer .mailBy,
+    .preparedByContainer .phNo,
+    .phNoOne,
+    .mailOne {
+        font-size: 12px;
+    }
+
+    .userInfo .address,
+    .imgHeadSETwo {
+        font-size: 14px;
+    }
+
+
+    .contentContainerAPL,
+    .ourTeamContainerOT,
+    .imgContainerSL,
+    .paraSE,
+    .headingSE,
+    .imagesContainerSE,
+    .summarySE,
+    .paraSETwo,
+    .imagesContainerSETwo,
+    .gridOnePE,
+    .gridTwoPE,
+    .imgPE,
+    .diduKnowContPE,
+    .tableContainerWTY,
+    .containerSAA,
+    .nextStepContainerNS,
+    .quesContainerFAQ,
+    .nextStepContainerADI {
+        margin-left: 14px;
+        margin-right: 14px;
+    }
+
+    .contentCO,
+    .tableContainerSDS,
+    .graphContainerEAP,
+    .graphContainerEMS,
+    .graphContainerCGS {
+        padding: 14px;
+    }
+
+    .contentImgCO {
+        flex-wrap: wrap;
+        column-gap: 8px;
+        row-gap: 16px;
+    }
+
+    .imgContainerCO {
+        width: 48%;
+    }
+
+    .imgCO {
+        width: 100%;
+        height: auto;
+    }
+
+    .imgSL {
+        height: 200px;
+    }
+
+    .tableHeaderSDS,
+    .tablevalueSDS {
+        font-size: 10px;
+    }
+
+    .thHeadSDS,
+    .thValueSDS {
+        padding: 10px 0px 10px 10px;
+    }
+
+    .gridOnePE {
+        grid-template-columns: 30% 30% 30%;
+        grid-gap: 14px;
+    }
+
+    .gcontPE,
+    .gcontTwoPE {
+        font-size: 12px;
+    }
+
+    .gValuePE{
+        font-size: 16px;
+    }
+
+    .imgPE{
+        width: 92%;
+    }
+
+    .tablevalueWidthWTY {
+        padding: 10px 0px 10px 8px;
+    }
+
+    .tableHeaderWidthWTY {
+        padding: 10px 8px;
+    }
+
+    .tablevalueWTY{
+        font-size: 10px;
+    }
+
+    .footerThanku{
+        padding: 0 14px;
+    }
+
+    .thankYouSec{
+        height: 550px;
+    }
+
+    .mailTY{
+        font-size: 14px;
+    }
+
+    .gridTY{
+        column-gap: 32px;
+    }
+
+    .imagesContainerSETwo{
+        grid-template-columns: auto;
+        grid-gap: 0px;
+    }
+
+    .imgSETwo{
+        width: 100%;
+        height: auto;
+    }
+
+    .tableBorderADI{
+        width: 112px;
+    }
+
+    .ourTeamContOT{
+        align-items: flex-start;
+    }
+
+    .imgSE{
+        height: 150px;
+    }
+}

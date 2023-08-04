@@ -1,21 +1,31 @@
-# Vue 3 + Vite
+# design-studio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Project setup
+```
+yarn install
+```
 
-While this project uses Vue.js, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
 
-## Deploy Your Own
+### Compiles and minifies for production
+```
+yarn run build
+```
 
-Deploy your own Vite project with Vercel.
+### Lints and fixes files
+```
+yarn run lint
+```
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite&template=vite)
+### Run your unit tests
+```
+yarn run test:unit
+```
 
-_Live Example: https://vite-vue-template.vercel.app_
-
-### Deploying From Your Terminal
-
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
+### Run your end-to-end tests
+```
+yarn run test:e2e
 ```

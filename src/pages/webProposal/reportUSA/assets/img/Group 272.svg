@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1118" height="498" viewBox="0 0 1118 498">
+    <defs>
+        <filter id="irvg5n8fha" x="0" y="0" width="1118" height="498" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".122"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 272">
+        <g style="filter:url(#irvg5n8fha)">
+            <rect data-name="Rectangle 1636" width="1100" height="480" rx="8" transform="translate(9 6)" style="fill:#fff"/>
+        </g>
+        <text data-name="Break-Even Analysis" transform="translate(559 44)" style="font-family:BrandonText-Bold,Brandon Text;font-weight:700;fill:#263342;font-size:20px"><tspan x="-86.84" y="0">Break-Even Analysis</tspan></text>
+        <path data-name="Rectangle 1639" transform="translate(133 402)" style="fill:#999" d="M0 0h952v1H0z"/>
+        <path data-name="Rectangle 1640" transform="rotate(-90 268 135)" style="fill:#999" d="M0 0h349v1H0z"/>
+        <text data-name="0" transform="translate(122 324)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-10.272" y="0">0</tspan></text>
+        <text data-name="20,000.00" transform="translate(122 239)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-78.224" y="0">20,000.00</tspan></text>
+        <text data-name="-20,000.00" transform="translate(121 408)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-84.016" y="0">-20,000.00</tspan></text>
+        <text data-name="40,000.00" transform="translate(122 154)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-79.392" y="0">40,000.00</tspan></text>
+        <text data-name="60,000.00" transform="translate(120 70)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-78.624" y="0">60,000.00</tspan></text>
+        <text data-name="1" transform="translate(163 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-2.696" y="0">1</tspan></text>
+        <text data-name="2" transform="translate(201 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-4.424" y="0">2</tspan></text>
+        <text data-name="3" transform="translate(239 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-4.504" y="0">3</tspan></text>
+        <text data-name="4" transform="translate(276 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-5.008" y="0">4</tspan></text>
+        <text data-name="5" transform="translate(314 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-4.528" y="0">5</tspan></text>
+        <text data-name="6" transform="translate(352 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-4.624" y="0">6</tspan></text>
+        <text data-name="7" transform="translate(390 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-4.016" y="0">7</tspan></text>
+        <text data-name="8" transform="translate(428 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-4.792" y="0">8</tspan></text>
+        <text data-name="9" transform="translate(465 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-4.632" y="0">9</tspan></text>
+        <text data-name="10" transform="translate(503 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-7.832" y="0">10</tspan></text>
+        <text data-name="16" transform="translate(730 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-7.32" y="0">16</tspan></text>
+        <text transform="translate(580 464)" style="font-size:18px;fill:#222;font-family:BrandonText-Bold,Brandon Text;font-weight:700"><tspan x="-41.004" y="0">Years</tspan></text>
+        <text data-name="11" transform="translate(541 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-5.392" y="0">11</tspan></text>
+        <text data-name="17" transform="translate(767 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-6.712" y="0">17</tspan></text>
+        <text data-name="12" transform="translate(579 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-7.12" y="0">12</tspan></text>
+        <text data-name="18" transform="translate(805 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-7.488" y="0">18</tspan></text>
+        <text data-name="13" transform="translate(616 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-7.2" y="0">13</tspan></text>
+        <text data-name="19" transform="translate(843 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-7.328" y="0">19</tspan></text>
+        <text data-name="14" transform="translate(654 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-7.704" y="0">14</tspan></text>
+        <text data-name="15" transform="translate(692 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-7.224" y="0">15</tspan></text>
+        <text data-name="20" transform="translate(881 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-9.56" y="0">20</tspan></text>
+        <text data-name="21" transform="translate(919 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-7.12" y="0">21</tspan></text>
+        <text data-name="22" transform="translate(956 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-8.848" y="0">22</tspan></text>
+        <text data-name="23" transform="translate(994 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-8.928" y="0">23</tspan></text>
+        <text data-name="24" transform="translate(1032 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-9.288" y="0">24</tspan></text>
+        <text data-name="25" transform="translate(1070 426)" style="font-family:BrandonText-Regular,Brandon Text;font-size:16px;fill:#222"><tspan x="-8.952" y="0">25</tspan></text>
+        <path data-name="Rectangle 1666" transform="translate(127 148)" style="fill:#999" d="M0 0h7v2H0z"/>
+        <path data-name="Rectangle 1667" transform="translate(127 233)" style="fill:#999" d="M0 0h7v1H0z"/>
+        <path data-name="Rectangle 1668" transform="translate(127 317)" style="fill:#999" d="M0 0h7v2H0z"/>
+        <path data-name="Rectangle 1671" transform="translate(127 63)" style="fill:#999" d="M0 0h7v2H0z"/>
+        <path data-name="Rectangle 1955" transform="rotate(180 89 189)" style="fill:#ff8d8f" d="M0 0h30v61H0z"/>
+        <path data-name="Rectangle 1954" transform="rotate(180 108 183)" style="fill:#ff8d8f" d="M0 0h30v49H0z"/>
+        <path data-name="Rectangle 1953" transform="rotate(180 127 177)" style="fill:#ff8d8f" d="M0 0h30v37H0z"/>
+        <path data-name="Rectangle 1952" transform="rotate(180 146 170.5)" style="fill:#ff8d8f" d="M0 0h31v24H0z"/>
+        <path data-name="Rectangle 1951" transform="rotate(180 164.5 164.5)" style="fill:#ff8d8f" d="M0 0h30v12H0z"/>
+        <path data-name="Rectangle 1950" transform="rotate(180 183.5 158.5)" style="fill:#409eff" d="M0 0h30v4H0z"/>
+        <path data-name="Rectangle 1949" transform="rotate(180 202.5 158.5)" style="fill:#409eff" d="M0 0h30v16H0z"/>
+        <path data-name="Rectangle 1948" transform="rotate(180 221.5 158.5)" style="fill:#409eff" d="M0 0h31v28H0z"/>
+        <path data-name="Rectangle 1947" transform="rotate(180 240 158.5)" style="fill:#409eff" d="M0 0h30v41H0z"/>
+        <path data-name="Rectangle 1946" transform="rotate(180 259 158.5)" style="fill:#409eff" d="M0 0h30v53H0z"/>
+        <path data-name="Rectangle 1945" transform="rotate(180 278 158.5)" style="fill:#409eff" d="M0 0h30v65H0z"/>
+        <path data-name="Rectangle 1944" transform="rotate(180 297 158.5)" style="fill:#409eff" d="M0 0h30v77H0z"/>
+        <path data-name="Rectangle 1943" transform="rotate(180 316 158.5)" style="fill:#409eff" d="M0 0h31v89H0z"/>
+        <path data-name="Rectangle 1942" transform="rotate(180 334.5 158.5)" style="fill:#409eff" d="M0 0h30v101H0z"/>
+        <path data-name="Rectangle 1941" transform="rotate(180 353.5 158.5)" style="fill:#409eff" d="M0 0h30v113H0z"/>
+        <path data-name="Rectangle 1940" transform="rotate(180 372.5 158.5)" style="fill:#409eff" d="M0 0h30v125H0z"/>
+        <path data-name="Rectangle 1939" transform="rotate(180 391.5 158.5)" style="fill:#409eff" d="M0 0h31v137H0z"/>
+        <path data-name="Rectangle 1931" transform="rotate(180 410 158.5)" style="fill:#409eff" d="M0 0h30v149H0z"/>
+        <path data-name="Rectangle 1932" transform="rotate(180 429 158.5)" style="fill:#409eff" d="M0 0h30v161H0z"/>
+        <path data-name="Rectangle 1933" transform="rotate(180 448 158.5)" style="fill:#409eff" d="M0 0h30v173H0z"/>
+        <path data-name="Rectangle 1934" transform="rotate(180 467 158.5)" style="fill:#409eff" d="M0 0h30v186H0z"/>
+        <path data-name="Rectangle 1935" transform="rotate(180 486 158.5)" style="fill:#409eff" d="M0 0h31v198H0z"/>
+        <path data-name="Rectangle 1936" transform="rotate(180 504.5 158.5)" style="fill:#409eff" d="M0 0h30v210H0z"/>
+        <path data-name="Rectangle 1937" transform="rotate(180 523.5 158.5)" style="fill:#409eff" d="M0 0h30v222H0z"/>
+        <path data-name="Rectangle 1938" transform="rotate(180 542.5 158.5)" style="fill:#409eff" d="M0 0h30v234H0z"/>
+        <path data-name="Rectangle 1957" transform="translate(127 402)" style="fill:#999" d="M0 0h7v1H0z"/>
+        <text data-name="$" transform="translate(120 42)" style="font-size:16px;fill:#222;font-family:BrandonText-Bold,Brandon Text;font-weight:700"><tspan x="-9.6" y="0">$</tspan></text>
+    </g>
+</svg>

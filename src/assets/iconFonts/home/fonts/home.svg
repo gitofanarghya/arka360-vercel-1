@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="home" horiz-adv-x="1000" >
+<font-face font-family="home" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="map" unicode="&#xe800;" d="M1237 844a34 34 0 0 1-27 6l-387-114-388 114a31 31 0 0 1-18 0l-395-119a31 31 0 0 1-22-30v-820a31 31 0 0 1 31-31 28 28 0 0 1 9 0l387 114 387-114a31 31 0 0 1 18 0l395 117a31 31 0 0 1 23 30v822a32 32 0 0 1-13 25z m-779-67l333-101v-753l-333 99z m-395-101l333 101v-755l-333-99z m1124-656l-333-99v755l333 99z" horiz-adv-x="1250" />
+</font>
+</defs>
+</svg>

@@ -1,0 +1,910 @@
+{
+    "total_insentive": "0.00",
+    "cost_after_insentive": "0.00",
+    "inverter": "MICRO-0.3HV-I-OUTD-US-208 ABB",
+    "modules": "ANJI Technology Co., Ltd.",
+    "project_head": {
+        "name": "report data",
+        "client_email_id": "",
+        "address": "Washington Square Fountain, Washington Square South, Washington Square Village, Manhattan Community Board 2, Manhattan, New York County, New York, 10012, United States",
+        "client_contact_number": "",
+        "client_name": "Sparsh Jain",
+        "latitude": 40.74,
+        "longitude": -74.0,
+        "project_creator_name": "bangaru dada",
+        "project_creator_phone_number": "79888977076"
+    },
+    "system_metrics": {
+        "Module DC Nameplate": "22.10 kWp",
+        "AC Nameplate": "1.00 kW, DC-AC Ratio: 22.10",
+        "Annual Production": "7.39-x 1000 kWh (Units)",
+        "Annual Production_usa": "7,389.33",
+        "Performance Ratio": "20.17%",
+        "Specific Generation (kWh/kWp/year)": "334.3",
+        "Weather Dataset": "Meteonorm",
+        "Average Monthly Production": "615.78",
+        "Shading Loss": 0.0,
+        "Degradation Rate": 1.5,
+        "Year 1 Usage Offset": 100,
+        "Utility_Company": "Consolidated Edison Co-NY Inc",
+        "utilityRate": "EL8 Multiple Dwellings - Redistribution, Voluntary Time of Day"
+    },
+    "off_grid": {},
+    "condition_set": {
+        "Solar Angle Location": "Meteo Lang/Long",
+        "Transposition Model": "Perez model",
+        "Temperature Model": "Sandia model",
+        "Temperature Model Parameters": {
+            "headers": [
+                "Rack Type",
+                "a",
+                "b",
+                "Temperature Delta"
+            ],
+            "values": [
+                [
+                    "Fixed Tilt",
+                    -3.56,
+                    -0.075,
+                    "3°C"
+                ],
+                [
+                    "Tilted Mount",
+                    -2.81,
+                    -0.0455,
+                    "0°C"
+                ],
+                [
+                    "East-West",
+                    -3.56,
+                    -0.075,
+                    "3°C"
+                ],
+                [
+                    "Carport",
+                    -3.56,
+                    -0.075,
+                    "3°C"
+                ]
+            ]
+        },
+        "Soiling": {
+            "headers": [
+                "J",
+                "F",
+                "M",
+                "A",
+                "M",
+                "J",
+                "J",
+                "A",
+                "S",
+                "O",
+                "N",
+                "D"
+            ],
+            "values": [
+                [
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0,
+                    -2.0
+                ]
+            ]
+        },
+        "Module Characterizations": {
+            "headers": [
+                "Device",
+                "Characterization"
+            ],
+            "values": [
+                [
+                    "ANJI Technology Co., Ltd.",
+                    "Spec Sheet Characterization, PAN"
+                ]
+            ]
+        },
+        "Inverter Characterizations": {
+            "headers": [
+                "Device",
+                "Characterization"
+            ],
+            "values": [
+                [
+                    "MICRO-0.3HV-I-OUTD-US-208 ABB",
+                    "CEC Efficiency curves"
+                ]
+            ]
+        },
+        "Weather Dataset": "New York City (40.71, -74.01)"
+    },
+    "field_segments": {
+        "headers": [
+            "Orientation",
+            "Tilt",
+            "Azimuth",
+            "Row Spacing",
+            "Frame Size",
+            "Modules",
+            "Power"
+        ],
+        "values": [
+            [
+                "Portrait",
+                "20 °",
+                "180 °",
+                "1.752 m",
+                "1x1",
+                85,
+                "22.10 KW"
+            ]
+        ]
+    },
+    "field_segments_usa": {
+        "headers": [
+            "Orientation",
+            "Tilt",
+            "Azimuth",
+            "Modules",
+            "Array Size (DC)"
+        ],
+        "values": [
+            [
+                "Portrait",
+                "20 °",
+                "180 °",
+                85,
+                "22.10 KW"
+            ]
+        ]
+    },
+    "components": {
+        "components": [
+            "Modules",
+            "Inverters",
+            "Optimizers",
+            "Racking System",
+            "BOS",
+            "manual_bom_data",
+            "Combiner Box",
+            "Handrail",
+            "Safetyline"
+        ],
+        "Modules": [
+            [
+                "ANJI Technology Co., Ltd.",
+                85,
+                "No."
+            ]
+        ],
+        "Inverters": [
+            [
+                "MICRO-0.3HV-I-OUTD-US-208 ABB",
+                4,
+                "No."
+            ]
+        ],
+        "Optimizers": [],
+        "Structure": [
+            [
+                "Premium Structure",
+                " ",
+                ""
+            ]
+        ],
+        "Racking System": [
+            [
+                "Premium Structure",
+                " ",
+                ""
+            ]
+        ],
+        "BOS": [
+            [
+                "DC Distribution Box",
+                0,
+                "No."
+            ],
+            [
+                "AC Distribution Box",
+                "",
+                ""
+            ],
+            [
+                "Earthing",
+                "",
+                ""
+            ],
+            [
+                "Lightning Arrestor",
+                "",
+                ""
+            ]
+        ],
+        "manual_bom_data": null,
+        "Combiner Box": [],
+        "Handrail": [],
+        "Safetyline": []
+    },
+    "project_location": "https://maps.googleapis.com/maps/api/staticmap?center=40.7308838000000000,-73.9973320000000000&scale=2&zoom=19&maptype=satellite&size=512x512&markers=color:red%7Clabel:P%7C40.7308838000000000,-73.9973320000000000&key=***********************",
+    "monthly_table": {
+        "headers": [
+            "Months",
+            "Direct Irradiance (kWh/m2)",
+            "Diffused Irradiance (kWh/m2)",
+            "Effective Irradiance (kWh/m2)",
+            "DC Energy (kWh)",
+            "AC Energy (kWh)",
+            "Specific Generation",
+            "Performance Ratio"
+        ],
+        "values": [
+            [
+                "January",
+                "53.42",
+                "28.74",
+                "92.68",
+                "1,901.18",
+                "585.42",
+                "26.49",
+                "28.58"
+            ],
+            [
+                "February",
+                "71.59",
+                "34.99",
+                "105.61",
+                "2,144.39",
+                "550.62",
+                "24.91",
+                "23.59"
+            ],
+            [
+                "March",
+                "113.23",
+                "56.14",
+                "146.5",
+                "2,909.13",
+                "670.68",
+                "30.35",
+                "20.72"
+            ],
+            [
+                "April",
+                "141.04",
+                "69.33",
+                "160.28",
+                "3,105.45",
+                "633.25",
+                "28.65",
+                "17.87"
+            ],
+            [
+                "May",
+                "172.2",
+                "76.78",
+                "182.6",
+                "3,445.79",
+                "690.58",
+                "31.25",
+                "17.11"
+            ],
+            [
+                "June",
+                "178.7",
+                "91.05",
+                "184.59",
+                "3,389.13",
+                "703.5",
+                "31.83",
+                "17.24"
+            ],
+            [
+                "July",
+                "178.61",
+                "89.25",
+                "185.73",
+                "3,361.34",
+                "693.0",
+                "31.36",
+                "16.88"
+            ],
+            [
+                "August",
+                "163.91",
+                "75.9",
+                "178.04",
+                "3,218.62",
+                "608.95",
+                "27.55",
+                "15.47"
+            ],
+            [
+                "September",
+                "130.31",
+                "60.86",
+                "162.29",
+                "2,990.81",
+                "682.67",
+                "30.89",
+                "19.03"
+            ],
+            [
+                "October",
+                "101.28",
+                "44.36",
+                "142.76",
+                "2,723.91",
+                "623.75",
+                "28.22",
+                "19.77"
+            ],
+            [
+                "November",
+                "67.54",
+                "30.12",
+                "110.06",
+                "2,143.76",
+                "522.98",
+                "23.66",
+                "21.5"
+            ],
+            [
+                "December",
+                "50.88",
+                "26.82",
+                "78.87",
+                "1,613.52",
+                "423.93",
+                "19.18",
+                "24.32"
+            ],
+            [
+                "Annual",
+                1422.71,
+                684.34,
+                1730.01,
+                32947.01,
+                7389.33,
+                334.34,
+                20.17
+            ]
+        ]
+    },
+    "detailed_layout_link": "https://dev.thesolarlabs.com/stage/a8ca8784-a4bd-4c1a-85f5-8c7c61c8ca90",
+    "financial_data": {
+        "price_per_kw": null,
+        "absolute_price": null,
+        "expected_life_years": 25,
+        "tax": 8.9,
+        "discount_rate": 6.25,
+        "subsidy_percentage": null,
+        "subsidy_amount": null,
+        "ad_percentage": 0.0,
+        "ad_years": 0.0,
+        "ad_tax_slab": 0.0,
+        "irr": 51.89,
+        "roi": 4.85,
+        "payback": {
+            "years": 1,
+            "months": 11
+        },
+        "cost": 3224989.6,
+        "savings": [
+            1721713.89,
+            1695887.18,
+            1670448.86,
+            1645392.11,
+            1620711.21,
+            1596400.53,
+            1572454.51,
+            1548867.68,
+            1525634.65,
+            1502750.11,
+            1480208.84,
+            1458005.7,
+            1436135.6,
+            1414593.55,
+            1393374.63,
+            1372473.99,
+            1351886.87,
+            1331608.55,
+            1311634.41,
+            1291959.88,
+            1272580.46,
+            1253491.74,
+            1234689.35,
+            1216169.0,
+            1197926.45
+        ],
+        "bill_with_solar": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "bill_with_solar_year_one": 0.0,
+        "bill_without_solar": [
+            36348.0,
+            44708.04,
+            54990.89,
+            67638.79,
+            83195.72,
+            102330.73,
+            125866.8,
+            154816.16,
+            190423.88,
+            234221.37,
+            288092.29,
+            354353.52,
+            435854.82,
+            536101.43,
+            659404.76,
+            811067.86,
+            997613.47,
+            1227064.56,
+            1509289.41,
+            1856425.98,
+            2283403.95,
+            2808586.86,
+            3454561.84,
+            4249111.06,
+            5226406.6
+        ],
+        "savings_from_Solar": 100,
+        "cumulative_savings": [
+            -1503275.71,
+            192612.47,
+            1863062.33,
+            3508455.44,
+            5129167.66,
+            6725569.19,
+            8298024.7,
+            9846893.37,
+            11372529.02,
+            12875280.13,
+            14355489.97,
+            15813496.67,
+            17249633.26,
+            18664227.81,
+            20057603.44,
+            21430078.43,
+            22781966.3,
+            24113575.85,
+            25425211.26,
+            26717172.14,
+            27989753.6,
+            29243246.35,
+            30477936.7,
+            31694106.69,
+            32892034.14
+        ],
+        "country": {
+            "id": 52,
+            "name": "United States",
+            "country_code": "US",
+            "currency": "USD",
+            "currency_code": "USD",
+            "conversion_factor": 1.1
+        },
+        "monthly_saving": [
+            136402.86,
+            128294.46,
+            156268.44,
+            147547.25,
+            160905.14,
+            163915.5,
+            161469.0,
+            141885.35,
+            159062.11,
+            145333.75,
+            121854.34,
+            98775.69
+        ],
+        "LCOE": "37.48",
+        "average_monthly_saving": 143476.16,
+        "average_monthly_saving_usa": "143,476",
+        "price_increase": 23.0,
+        "price": 233.0,
+        "feed_in_tarrif": 0.0,
+        "total_investment": 2961400.0,
+        "total_investment_usa": "2,961,400.00",
+        "total_savings": "15,646,099.64",
+        "monthly_saving_year": "1,721,713.89",
+        "price_per_watt": 134.0
+    },
+    "organisation_data": {
+        "name": "The Solar Labs Designing Software",
+        "logo": "https://design-studio-app.s3.amazonaws.com/Solar_labs_tKJhhLn.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220802%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220802T103313Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0d4a63a1ee5f2aa319650abd78640c8d668ad332e4a4f5c41a42d9ab7a6c38a5",
+        "website": null,
+        "email_id": "sparsh@gmail.com",
+        "phone": "79888977076",
+        "about_us": "wqfwefwef",
+        "is_logo_on_title": true,
+        "is_logo_on_heat_map": true,
+        "is_logo_on_shadow_analysis": true,
+        "is_logo_on_about_us": true,
+        "is_logo_on_system_metrics": true,
+        "is_logo_on_savings": true,
+        "is_logo_on_components": true,
+        "is_logo_on_monthly_table": true,
+        "is_logo_on_field_segments": true,
+        "is_logo_on_bill_without_solar": true,
+        "is_logo_on_environmental_impact": true,
+        "is_logo_on_thank_you": true,
+        "is_three_d_link": true,
+        "address": [
+            "lihfelihliahfhwhf;liwqhe;if"
+        ],
+        "designation": [
+            null
+        ]
+    },
+    "green_impact_data": {
+        "co2_offset": "109.59",
+        "trees": "1,814",
+        "acres_of_forest": "128.66",
+        "coal_burn_avoided": "54.35",
+        "gasoline_consumed": "46,742.25",
+        "kilometers_driven": "430,924.15"
+    },
+    "report_defaults_data": {
+        "pages": [
+            "system-metrics",
+            "savings",
+            "components",
+            "title",
+            "monthly-production",
+            "monthly-savings",
+            "monthly-table",
+            "bill-with-without-solar",
+            "environmental-impact",
+            "heat-map",
+            "about-us",
+            "thank-you",
+            "losses",
+            "field-segments",
+            "shadow-analysis"
+        ],
+        "report_type": "landscape",
+        "threed_data": {
+            "financial": true,
+            "generation": true
+        },
+        "custom_color": {
+            "primary_color": "#f8d6ce",
+            "tertiary_color": "#cccccc",
+            "secondary_color": "#d7e1f8"
+        },
+        "template_name": "solar_labs_3",
+        "shadowAnalysis": {
+            "end_time_shadow_analysis": "17:00:00",
+            "start_time_shadow_analysis": "09:00:00"
+        }
+    },
+    "custom_color": {
+        "primary_color": "#f8d6ce",
+        "tertiary_color": "#cccccc",
+        "secondary_color": "#d7e1f8"
+    },
+    "report_type": "landscape",
+    "units": {
+        "distance_unit": "meters",
+        "wiring_unit": "mmsq"
+    },
+    "country": {
+        "id": 52,
+        "name": "United States",
+        "country_code": "US",
+        "currency": "USD",
+        "currency_code": "USD",
+        "conversion_factor": 1.1
+    },
+    "date": "02-08-2022",
+    "isRoofData": false,
+    "insentives_data": [],
+    "previous_project_details": {
+        "previous_project_one_image": "",
+        "previous_project_two_image": "",
+        "previous_project_three_image": "",
+        "previous_project_one_name": "Aquib",
+        "previous_project_two_name": "Navneet",
+        "previous_project_three_name": "Madhav"
+    },
+    "state": "New York",
+    "chart_data": {
+        "monthly_prod": [
+            585.42,
+            550.62,
+            670.68,
+            633.25,
+            690.58,
+            703.5,
+            693.0,
+            608.95,
+            682.67,
+            623.75,
+            522.98,
+            423.93
+        ],
+        "performance_ratio": [
+            28.58,
+            23.59,
+            20.72,
+            17.87,
+            17.11,
+            17.24,
+            16.88,
+            15.47,
+            19.03,
+            19.77,
+            21.5,
+            24.32
+        ],
+        "normalized_production": {
+            "useful_energy": [
+                585.42,
+                550.62,
+                670.68,
+                633.25,
+                690.58,
+                703.5,
+                693.0,
+                608.95,
+                682.67,
+                623.75,
+                522.98,
+                423.93
+            ],
+            "system_loss": [
+                1315.7561841125762,
+                1593.7691064863511,
+                2238.448672385047,
+                2472.1978767699743,
+                2755.2062358768567,
+                2685.627434768121,
+                2668.3386420507454,
+                2609.673454308916,
+                2308.1409708466817,
+                2100.1601922394834,
+                1620.7769170375677,
+                1189.585549620175
+            ],
+            "collection_loss": [
+                1134.956224750797,
+                1280.1484602178089,
+                1736.679494996726,
+                1853.8773143870428,
+                2057.0510877688766,
+                2023.2271531211297,
+                2006.637915607818,
+                1921.4403983826198,
+                1785.4418526707243,
+                1626.1085396393128,
+                1279.7710583988116,
+                963.2297795842705
+            ]
+        },
+        "system_loss_src": [
+            {
+                "Irradiance": [
+                    {
+                        "initial_name": "Horizontal Global Irradiation",
+                        "initial_value": 1422.71,
+                        "units": "kWh/m2"
+                    },
+                    {
+                        "loss": "Global Incidence on PV plane",
+                        "percent": 21.6
+                    },
+                    {
+                        "loss": "Near Shading: irradiance loss",
+                        "percent": 0.0
+                    },
+                    {
+                        "loss": "Irradiance after reflection",
+                        "percent": -3.85
+                    },
+                    {
+                        "loss": "Soiling loss factor",
+                        "percent": -2.0
+                    }
+                ]
+            },
+            {
+                "DC": [
+                    {
+                        "initial_name": "Nominal Energy after PV conversion",
+                        "initial_value": 36010.15,
+                        "units": "kWh"
+                    },
+                    {
+                        "loss": "PV loss due to environmental condition",
+                        "percent": -4.75
+                    },
+                    {
+                        "loss": "Light Induced Degradation",
+                        "percent": -1.5
+                    },
+                    {
+                        "loss": "Mismatch loss, modules and strings",
+                        "percent": -1.5
+                    },
+                    {
+                        "loss": "Ohmic wiring loss",
+                        "percent": -1.0
+                    }
+                ]
+            },
+            {
+                "AC": [
+                    {
+                        "loss": "Clipping loss",
+                        "percent": -76.52
+                    },
+                    {
+                        "loss": "DC/AC conversion",
+                        "percent": -3.5
+                    },
+                    {
+                        "loss": "System Availability",
+                        "percent": 0.0
+                    },
+                    {
+                        "loss": "AC Ohmic loss",
+                        "percent": -1.0
+                    }
+                ]
+            }
+        ]
+    },
+    "frequently_asked_questions": [
+        {
+            "answer": "wftyufeijg",
+            "question": "Sanchit Agrawal"
+        },
+        {
+            "answer": "awest",
+            "question": "wqretyriu"
+        },
+        {
+            "answer": "wretrtkhj",
+            "question": "waresygkhulj"
+        },
+        {
+            "answer": "Flatmate of Sharad",
+            "question": "Sanchit"
+        },
+        {
+            "answer": "Frontend Developer",
+            "question": "Charmi"
+        },
+        {
+            "answer": "Advantages of Mobile Phone\n1) Keeps us connected\n\nNow we can be connected to our friends, relatives at any time we want through many apps. Now we can talk video chat with whoever we want, by just operating your mobile phone or smartphone. Apart from this mobile also keeps us updated about the whole world.\n\n2) Day to Day Communicating\n\nToday mobiles phone has made our life so easy for daily life activities. Today, one can assess the live traffic situation on mobile phone and take appropriate decisions to reach on time. Along with it the weather updates, booking a cab and many more.\n\n3) Entertainment for All\n\nWith the improvement of mobile technology, the whole entertainment world is now under one roof. Whenever we get bored with routine work or during the breaks, we can listen to music, watch movies, our favorite shows or just watch the video of one’s favorite song.",
+            "question": "Mobile Phone is often also called “cellular phone”. It is a device mainly used for a voice call. Presently technological advancements have made our life easy. Today, with the help of a mobile phone we can easily talk or video chat with anyone across the globe by just moving our fingers. Today mobile phones are available in various shapes and sizes, having different technical specifications and are used for a number of purposes like – voice calling, video chatting, text messaging or SMS, multimedia messaging, internet browsing, email, video games, and photography. Hence it is called a ‘Smart Phone’. Like every device, the mobile phone also has its pros and cons which we shall discuss now."
+        },
+        {
+            "answer": "Familiarity between Technology and Science\n1) As they are completely different fields but they are interdependent on each other. Also, it is due to science contribution we can create new innovation and build new technological tools. Apart from that, the research conducted in laboratories contributes a lot to the development of technologies. On the other hand, technology extends the agenda of science.\n\nVital Part of our Life\n2) Regularly evolving technology has become an important part of our lives. Also, newer technologies are taking the market by storm and the people are getting used to them in no time. Above all, technological advancement has led to the growth and development of nations.\n\nNegative Aspect of Technology\n3) Although technology is a good thing, everything has two sides. Technology also has two sides one is good and the other is bad. Here are some negative aspects of technology that we are going to discuss.",
+            "question": "Experts are debating on this topic for years. Also, the technology covered a long way to make human life easier but the negative aspect of it can’t be ignored. Over the years technological advancement has caused a severe rise in pollution. Also, pollution has become a major cause of many health issues. Besides, it has cut off people from society rather than connecting them. Above all, it has taken away many jobs from the workers class."
+        },
+        {
+            "answer": "ewgtr",
+            "question": "ewte"
+        },
+        {
+            "answer": "Saroash",
+            "question": "Navneet"
+        },
+        {
+            "answer": "Ruchika",
+            "question": "Utkarsh"
+        },
+        {
+            "answer": "Yash",
+            "question": "Sparsh"
+        },
+        {
+            "answer": "Akshay",
+            "question": "Nikhil"
+        },
+        {
+            "answer": "Madhav",
+            "question": "Aditya"
+        },
+        {
+            "answer": "Shreyash",
+            "question": "Hussne"
+        },
+        {
+            "answer": "Vedha",
+            "question": "Shilpa"
+        },
+        {
+            "answer": "Aarti",
+            "question": "Ritesh"
+        },
+        {
+            "answer": "Ankit",
+            "question": "Deepankar"
+        },
+        {
+            "answer": "Divya",
+            "question": "Chiraag"
+        },
+        {
+            "answer": "Aarif",
+            "question": "Udit"
+        },
+        {
+            "answer": "wqr4uuol",
+            "question": "qwqee"
+        },
+        {
+            "answer": "iijiojjiji",
+            "question": "opppp"
+        }
+    ],
+    "team_members": {
+        "undefined": {
+            "name": "hihi",
+            "image": "",
+            "position": "",
+            "description": ""
+        }
+    },
+    "heat_map": "https://design-studio-app.s3.amazonaws.com/a8ca8784-a4bd-4c1a-85f5-8c7c61c8ca90-heatMapImage.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220802%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220802T103316Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f9f4d8694ce1d85a02cf81a5fa3a1df090dfc3fbd790fce320e635a8111bb892",
+    "detailed_layout": "https://design-studio-app.s3.amazonaws.com/a8ca8784-a4bd-4c1a-85f5-8c7c61c8ca90-sceneImage.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220802%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220802T103316Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6921c124772d0a2d9a18417608b947c3b051d54cdc76c75a8ee2ceaa9795b9e6",
+    "solar_access_image": "https://design-studio-app.s3.amazonaws.com/a8ca8784-a4bd-4c1a-85f5-8c7c61c8ca90-solarAccessImage.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220802%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220802T103316Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6ba58264db8535874eeca0f94cd796b122f183d0dceda5ba6fc6f6a9333912eb",
+    "shadow_analysis_images": {
+        "shadow_summer_start_time_image": "https://design-studio-app.s3.amazonaws.com/a8ca8784-a4bd-4c1a-85f5-8c7c61c8ca90-startTimeSummerShadow.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220802%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220802T103316Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=19759932a8e46a927be462a5b090e3c703a65ffd7e0e2ed29de2229626b99714",
+        "shadow_winter_start_time_image": "https://design-studio-app.s3.amazonaws.com/a8ca8784-a4bd-4c1a-85f5-8c7c61c8ca90-startTimeWinterShadow.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220802%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220802T103316Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=385a81d285d11c390bda30aad1f2196ad019f80596fc54bf6fe8f91abedd7f3b",
+        "shadow_summer_end_time_image": "https://design-studio-app.s3.amazonaws.com/a8ca8784-a4bd-4c1a-85f5-8c7c61c8ca90-endTimeSummerShadow.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220802%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220802T103316Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=74b626d003a17d6aaa504dd506a8aab90b22df97db58835f1ebfc160676ec0f8",
+        "shadow_winter_end_time_image": "https://design-studio-app.s3.amazonaws.com/a8ca8784-a4bd-4c1a-85f5-8c7c61c8ca90-endTimeWinterShadow.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMYDVVI4WW322S7Q%2F20220802%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220802T103316Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6e4b705d77280db5e4233d8b100a50aa45208d5fda4b79251731a78eed3b8147"
+    },
+    "pages": [
+        "system-metrics",
+        "savings",
+        "components",
+        "title",
+        "monthly-production",
+        "monthly-savings",
+        "monthly-table",
+        "bill-with-without-solar",
+        "environmental-impact",
+        "heat-map",
+        "about-us",
+        "thank-you",
+        "losses",
+        "field-segments",
+        "shadow-analysis"
+    ]
+}

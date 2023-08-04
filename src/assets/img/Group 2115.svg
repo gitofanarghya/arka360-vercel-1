@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.541" height="34.707" viewBox="0 0 34.541 34.707">
+    <g data-name="Group 2115">
+        <path data-name="Rectangle 2409" transform="translate(.817 1.389)" style="fill:none" d="M0 0h33.319v33.319H0z"/>
+        <g data-name="Group 5">
+            <path data-name="Path 47" d="m107.23 253.826-1.641 17.792h26.066l-1.75-17.792z" transform="translate(-97.831 -244.108)" style="stroke-linecap:round;stroke-width:1.3px;stroke:#fff;fill:none"/>
+            <path data-name="Path 48" d="m111.486 253.969-.133 9.967-.1 7.752" transform="translate(-94.067 -244.036)" style="stroke:#fff;fill:none"/>
+            <path data-name="Path 49" d="m111.25 253.969.133 9.967.1 7.752" transform="translate(-86.527 -244.036)" style="stroke:#fff;fill:none"/>
+            <path data-name="Path 50" d="m0 0 .133 13.532.1 10.525" transform="rotate(-90 15.184 6.742)" style="stroke:#fff;fill:none"/>
+            <path data-name="Path 51" d="m0 0 .133 13.532.1 10.525" transform="rotate(-90 12.345 3.904)" style="stroke:#fff;fill:none"/>
+            <path data-name="Rectangle 856" transform="translate(17.56 31.092)" style="fill:#fff" d="M0 0h6.032v3.016H0z"/>
+            <path data-name="Rectangle 857" transform="translate(19.445 28.076)" style="fill:#fff" d="M0 0h2.262v4.524H0z"/>
+        </g>
+        <path data-name="Subtraction 6" d="m2.885 14.205-.947-.947 2.98-2.979a3.834 3.834 0 0 1-.651-1.564H0V7.373h4.266a3.889 3.889 0 0 1 .648-1.561l-2.98-2.98.948-.947 2.979 2.979a3.833 3.833 0 0 1 1.512-.64V0h1.341v4.206a3.825 3.825 0 0 1 1.616.66l2.984-2.984.947.948-2.985 2.984a3.842 3.842 0 0 1 .594 1.307c-.465.12-.9.25-1.286.387a2.547 2.547 0 1 0-3.417 2.908 10.183 10.183 0 0 0-.422 1.273 3.872 3.872 0 0 1-.881-.464L2.886 14.2z" style="fill:#fff"/>
+    </g>
+</svg>

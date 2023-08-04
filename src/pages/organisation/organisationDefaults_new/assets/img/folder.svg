@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_293" transform="translate(-24 -176)">
+        <path id="Rectangle_427" fill="none" d="M0 0H40V40H0z" transform="translate(24 176)"/>
+        <g id="folder_4_" transform="translate(30.013 185.061)">
+            <g id="Group_208">
+                <g id="Group_207">
+                    <path id="Path_17" d="M22.3 50.465H7.71a.818.818 0 0 1-.818-.818v-.41a.835.835 0 0 0-.834-.834H1.669A1.669 1.669 0 0 0 0 50.072v14.043L2.141 53.7a.818.818 0 0 1 .8-.654h21.03v-.909a1.669 1.669 0 0 0-1.671-1.672z" class="cls-2" transform="translate(0 -48.403)"/>
+                </g>
+            </g>
+            <g id="Group_210" transform="translate(.373 6.277)">
+                <g id="Group_209">
+                    <path id="Path_18" d="M32.993 162.01H9.983l-3.22 15.668a.829.829 0 0 0 .812 1h23.944a1.669 1.669 0 0 0 1.659-1.485l1.474-13.326a1.669 1.669 0 0 0-1.659-1.857z" class="cls-2" transform="translate(-6.746 -162.01)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

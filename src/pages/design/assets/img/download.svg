@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <g data-name="Group 1716">
+        <path data-name="Rectangle 330" style="fill:none" d="M0 0h32v32H0z"/>
+        <g data-name="Group 1720" transform="translate(-728.039 -431.805)">
+            <rect data-name="Rectangle 2444" width="20.484" height="2.201" rx="1.1" transform="translate(734.039 457.366)" style="fill:#222"/>
+            <g data-name="download (1)">
+                <path data-name="Path 60" d="M10.8 21.259a1 1 0 0 0 1.417 0l6.006-6.006a1 1 0 1 0-1.423-1.417l-4.3 4.3V4a1 1 0 1 0-2 0v14.134l-4.3-4.3a1 1 0 1 0-1.417 1.417z" transform="translate(732.475 432.805)" style="stroke:#777;stroke-width:.5px;fill:#222"/>
+            </g>
+        </g>
+    </g>
+</svg>

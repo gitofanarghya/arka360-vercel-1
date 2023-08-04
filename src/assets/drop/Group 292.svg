@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g data-name="Group 292">
+        <path data-name="Rectangle 427" style="fill:none" d="M0 0h24v24H0z"/>
+        <g data-name="dashboard (1)">
+            <path data-name="Path 13" d="M5.76 0H1.09A1.091 1.091 0 0 0 0 1.09v2.8a1.091 1.091 0 0 0 1.09 1.09h4.67a1.091 1.091 0 0 0 1.09-1.09v-2.8A1.091 1.091 0 0 0 5.76 0zm0 0" style="fill:#1c3366" transform="translate(4.669 4.795)"/>
+            <path data-name="Path 14" d="M5.76 213.332H1.09a1.091 1.091 0 0 0-1.09 1.09v6.538a1.091 1.091 0 0 0 1.09 1.09h4.67a1.091 1.091 0 0 0 1.09-1.09v-6.538a1.091 1.091 0 0 0-1.09-1.09zm0 0" transform="translate(4.669 -202.31)" style="fill:#1c3366"/>
+            <path data-name="Path 15" d="M283.092 341.332h-4.67a1.091 1.091 0 0 0-1.09 1.09v2.8a1.091 1.091 0 0 0 1.09 1.09h4.67a1.091 1.091 0 0 0 1.09-1.09v-2.8a1.091 1.091 0 0 0-1.09-1.09zm0 0" transform="translate(-264.568 -326.574)" style="fill:#1c3366"/>
+            <path data-name="Path 16" d="M283.092 0h-4.67a1.091 1.091 0 0 0-1.09 1.09v6.538a1.091 1.091 0 0 0 1.09 1.09h4.67a1.091 1.091 0 0 0 1.09-1.09V1.09a1.091 1.091 0 0 0-1.09-1.09zm0 0" transform="translate(-264.568 4.795)" style="fill:#1c3366"/>
+        </g>
+    </g>
+</svg>

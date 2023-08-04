@@ -1,0 +1,66 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "panelstack";
+  src: url("panelstack.eot?objrvb");
+  src: url("panelstack.eot?objrvb#iefix") format("embedded-opentype"), url("panelstack.ttf?objrvb") format("truetype"), url("panelstack.woff?objrvb") format("woff"), url("panelstack.svg?objrvb#panelstack") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block; }
+
+.icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "panelstack" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.copy-alt:before {
+  content: ""; }
+
+.Dashboard:before {
+  content: ""; }
+
+.delete-alt:before {
+  content: ""; }
+
+.download-alt:before {
+  content: ""; }
+
+.edit-alt:before {
+  content: ""; }
+
+.favorite:before {
+  content: ""; }
+
+.help:before {
+  content: ""; }
+
+.location:before {
+  content: ""; }
+
+.project:before {
+  content: ""; }
+
+.search:before {
+  content: ""; }
+
+.setting:before {
+  content: ""; }
+
+.share-alt:before {
+  content: ""; }
+
+.upload-alt:before {
+  content: ""; }
+
+.share-2:before {
+  content: ""; }
+
+.bargraph:before {
+  content: ""; }

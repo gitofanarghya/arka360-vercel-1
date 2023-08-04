@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g data-name="Group 1783">
+        <g data-name="Rectangle 330" style="stroke:#777;fill:none">
+            <rect width="24" height="24" rx="4" style="stroke:none"/>
+            <rect x=".5" y=".5" width="23" height="23" rx="3.5" style="fill:none"/>
+        </g>
+        <g data-name="edit (2)">
+            <g data-name="Group 155">
+                <path data-name="Path 17" d="M14.035 2.6 11.823.391a1.333 1.333 0 0 0-1.886 0L1.255 9.074a.476.476 0 0 0-.126.223L.014 13.836a.476.476 0 0 0 .576.576L5.129 13.3a.476.476 0 0 0 .223-.126l8.683-8.683a1.333 1.333 0 0 0 0-1.891zM1.126 13.3l.045-.185.14.139zm1.266-.311-.955-.955.415-1.691 2.23 2.23zm2.625-.827L2.264 9.41 9.37 2.3l2.752 2.752zm8.346-8.346-.55.55-2.752-2.752.55-.55a.382.382 0 0 1 .54 0l2.212 2.212a.382.382 0 0 1-.001.54z" transform="rotate(-5 66.75 -47.742)" style="fill:#777"/>
+            </g>
+        </g>
+    </g>
+</svg>

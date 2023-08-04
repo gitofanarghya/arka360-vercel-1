@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42.447" height="32.536" viewBox="0 0 42.447 32.536">
+    <defs>
+        <style>
+            .cls-2,.cls-3,.cls-6{fill:none}.cls-2,.cls-3{stroke:#777;stroke-linecap:round}.cls-2{stroke-linejoin:round}.cls-2,.cls-3{stroke-width:1.5px}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_31" data-name="Group 31" transform="translate(-59 -568.104)">
+        <g id="Rectangle_1795" data-name="Rectangle 1795" transform="translate(59 579)" style="stroke-width:2px;stroke:#777;fill:none">
+            <rect class="cls-5" width="24" height="11" rx="1"/>
+            <path class="cls-6" d="M1 1h22v9H1z"/>
+        </g>
+        <g id="Group_31-2" data-name="Group 31">
+            <path id="Path_12" data-name="Path 12" class="cls-2" d="M65.5 212.158s7.946.185 11.4-8.87a7.857 7.857 0 0 1 2.464 1.109s-4.127 10.041-12.936 10.349c-.438-1.046-.928-2.588-.928-2.588z" transform="translate(16 368)"/>
+            <path id="Line_22" data-name="Line 22" class="cls-3" transform="translate(94.5 569.061)" d="M.857 0 0 2.439"/>
+        </g>
+        <g id="Group_32" data-name="Group 32" transform="translate(81.498 586)">
+            <path id="Path_12-2" data-name="Path 12" class="cls-2" d="M65.934 206.146s7.51-.456 10.959 8.6a7.857 7.857 0 0 0 2.464-1.109S75.23 203.6 66.422 203.288a10.389 10.389 0 0 0-.488 2.858z" transform="translate(-65.498 -203.288)"/>
+            <path id="Line_22-2" data-name="Line 22" class="cls-3" transform="translate(13.002 11.245)" d="M.857 2.439 0 0"/>
+        </g>
+        <g id="Group_33" data-name="Group 33">
+            <g id="Rectangle_1796" data-name="Rectangle 1796" style="stroke-width:1.5px;stroke-linejoin:round;stroke:#777;fill:none">
+                <path class="cls-5" d="M0 0h16v4H0z" transform="translate(82 582)"/>
+                <path class="cls-6" d="M.75.75h14.5v2.5H.75z" transform="translate(82 582)"/>
+            </g>
+            <path id="Line_23" data-name="Line 23" class="cls-3" transform="rotate(-70 465.698 222.183)" d="M.857 2.439 0 0"/>
+        </g>
+    </g>
+</svg>

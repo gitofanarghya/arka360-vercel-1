@@ -1,0 +1,15 @@
+[contenteditable="true"].single-line * {
+    display: none;
+}
+
+.single-line {
+    position: absolute;
+    color: white;
+    width: auto;
+    height: 13px;
+    font-size: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+}

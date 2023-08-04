@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g data-name="Group 1943">
+        <path data-name="Rectangle 427" style="fill:none" d="M0 0h24v24H0z"/>
+        <g data-name="log-in (1)">
+            <path data-name="Path 27" d="M18.374 17.989c-.019 0-.035.011-.054.011h-8.068A2.254 2.254 0 0 1 8 15.75V15a.751.751 0 0 1 1.5 0v.75a.752.752 0 0 0 .751.75h3.5l-.229-.076A1.508 1.508 0 0 1 12.5 15V3.75h-2.248a.752.752 0 0 0-.752.75V6A.751.751 0 0 1 8 6V4.5a2.254 2.254 0 0 1 2.252-2.25H12.5V1.5A1.5 1.5 0 0 1 14 0a1.579 1.579 0 0 1 .478.074l4.509 1.5A1.507 1.507 0 0 1 20.009 3v13.5a1.5 1.5 0 0 1-1.635 1.489z" transform="translate(.991 3)" style="fill:#263342"/>
+            <path data-name="Path 28" d="m.22 8.222 3-3a.75.75 0 0 1 1.28.528V8h3a.751.751 0 1 1 0 1.5h-3v2.252a.75.75 0 0 1-1.281.531l-3-3a.75.75 0 0 1 0-1.061z" transform="translate(3 5)" style="fill:#263342"/>
+        </g>
+    </g>
+</svg>

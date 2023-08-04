@@ -1,0 +1,17 @@
+
+@mixin bp($breakpoint) {
+    @if $breakpoint == xs {
+      @media (max-width: 767px) { @content; }
+    }
+    @else if $breakpoint == sm {
+      @media (max-width: 980px) { @content; }
+    }
+    @else if $breakpoint == md {
+      @media (max-width: 1280px)  { @content; }
+    }
+    @else if $breakpoint == xs-upper {
+        @media (min-width: 768px)  { @content; }
+    }
+}
+
+

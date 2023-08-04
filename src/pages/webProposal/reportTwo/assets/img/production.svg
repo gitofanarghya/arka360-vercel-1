@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+    <defs>
+        <style>
+            .cls-1{fill:#1c3366}
+        </style>
+    </defs>
+    <g id="Group_6" data-name="Group 6" transform="translate(-239 -431)">
+        <rect id="Rectangle_1623" data-name="Rectangle 1623" class="cls-1" width="12" height="5" rx="2.5" transform="translate(239 467.5)"/>
+        <rect id="Rectangle_1624" data-name="Rectangle 1624" class="cls-1" width="12" height="5" rx="2.5" transform="translate(305 467.5)"/>
+        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(254 446)" style="stroke:#1c3366;stroke-width:4px;fill:none">
+            <circle cx="24" cy="24" r="24" style="stroke:none"/>
+            <circle cx="24" cy="24" r="22" style="fill:none"/>
+        </g>
+        <rect id="Rectangle_1625" data-name="Rectangle 1625" class="cls-1" width="12" height="5" rx="2.5" transform="rotate(90 -75.25 355.75)"/>
+        <rect id="Rectangle_1626" data-name="Rectangle 1626" class="cls-1" width="12" height="5" rx="2.5" transform="rotate(90 -108.25 388.75)"/>
+        <rect id="Rectangle_1627" data-name="Rectangle 1627" class="cls-1" width="11.704" height="5.544" rx="2.772" transform="rotate(135 61.838 285.841)"/>
+        <rect id="Rectangle_1628" data-name="Rectangle 1628" class="cls-1" width="11.704" height="5.544" rx="2.772" transform="rotate(135 28.482 299.658)"/>
+        <rect id="Rectangle_1629" data-name="Rectangle 1629" class="cls-1" width="11.704" height="5.544" rx="2.772" transform="rotate(-135 255.37 186.93)"/>
+        <rect id="Rectangle_1630" data-name="Rectangle 1630" class="cls-1" width="11.704" height="5.544" rx="2.772" transform="rotate(-135 222.014 173.114)"/>
+        <path id="lightning" class="cls-1" d="M6.958.564A.785.785 0 0 1 7.712 0H14a.785.785 0 0 1 .745 1.034l-2.8 8.391h5.978a.785.785 0 0 1 .62 1.268L7.547 24.828a.785.785 0 0 1-1.371-.713L9 14.922H3.786a.785.785 0 0 1-.754-1.007L6.958.564zM8.3 1.571l-3.465 11.78h5.234a.785.785 0 0 1 .751 1.016l-1.883 6.115 7.379-9.487h-5.462a.785.785 0 0 1-.745-1.034l2.8-8.391z" transform="translate(267.772 458.062)"/>
+    </g>
+</svg>

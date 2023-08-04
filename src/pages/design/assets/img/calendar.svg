@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="calendar" width="13.395" height="13.395" viewBox="0 0 13.395 13.395">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_238">
+        <g id="Group_237">
+            <path id="Path_32" d="M11.825 1.046H11.2V0h-1.049v1.046H3.244V0H2.2v1.046h-.63A1.572 1.572 0 0 0 0 2.616v9.209A1.572 1.572 0 0 0 1.57 13.4h10.255a1.572 1.572 0 0 0 1.57-1.57V2.616a1.572 1.572 0 0 0-1.57-1.57zm.523 10.779a.524.524 0 0 1-.523.523H1.57a.524.524 0 0 1-.523-.523V4.919h11.3zm0-7.953H1.046V2.616a.524.524 0 0 1 .523-.523H2.2v1.046h1.044V2.093h6.907v1.046H11.2V2.093h.628a.524.524 0 0 1 .523.523z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_240" transform="translate(2.157 5.941)">
+        <g id="Group_239">
+            <path id="Rectangle_510" d="M0 0H1.514V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_242" transform="translate(4.427 5.941)">
+        <g id="Group_241">
+            <path id="Rectangle_511" d="M0 0H0.757V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_244" transform="translate(5.941 5.941)">
+        <g id="Group_243">
+            <path id="Rectangle_512" d="M0 0H1.514V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_246" transform="translate(8.211 5.941)">
+        <g id="Group_245">
+            <path id="Rectangle_513" d="M0 0H1.514V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_248" transform="translate(10.481 5.941)">
+        <g id="Group_247">
+            <path id="Rectangle_514" d="M0 0H1.514V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_250" transform="translate(2.157 8.211)">
+        <g id="Group_249">
+            <path id="Rectangle_515" d="M0 0H1.514V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_252" transform="translate(4.427 8.211)">
+        <g id="Group_251">
+            <path id="Rectangle_516" d="M0 0H0.757V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_254" transform="translate(5.941 8.211)">
+        <g id="Group_253">
+            <path id="Rectangle_517" d="M0 0H1.514V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_256" transform="translate(8.211 8.211)">
+        <g id="Group_255">
+            <path id="Rectangle_518" d="M0 0H1.514V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_258" transform="translate(2.157 10.481)">
+        <g id="Group_257">
+            <path id="Rectangle_519" d="M0 0H1.514V0.757H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_260" transform="translate(4.427 10.481)">
+        <g id="Group_259">
+            <path id="Rectangle_520" d="M0 0H0.757V0.757H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_262" transform="translate(5.941 10.481)">
+        <g id="Group_261">
+            <path id="Rectangle_521" d="M0 0H1.514V0.757H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_264" transform="translate(8.211 10.481)">
+        <g id="Group_263">
+            <path id="Rectangle_522" d="M0 0H1.514V0.757H0z" class="cls-1"/>
+        </g>
+    </g>
+    <g id="Group_266" transform="translate(10.481 8.211)">
+        <g id="Group_265">
+            <path id="Rectangle_523" d="M0 0H1.514V1.514H0z" class="cls-1"/>
+        </g>
+    </g>
+</svg>

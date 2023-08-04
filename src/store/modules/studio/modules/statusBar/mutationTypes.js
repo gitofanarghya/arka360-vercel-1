@@ -1,0 +1,3 @@
+export default {
+    SET_REPEAT_VISIBILITY: 'SET_REPEAT_VISIBILITY',
+};

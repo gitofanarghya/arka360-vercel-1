@@ -1,0 +1,16 @@
+.side-bar-tooltip-wrapper {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.side-bar-tooltip {
+    background-color: #141414 !important;
+    font-size: 1vw;
+    margin-left: 6px !important;
+
+    .popper__arrow,
+    .popper__arrow::after,
+    .popper__arrow::before {
+        border-right-color: #141414 !important;
+    }
+}

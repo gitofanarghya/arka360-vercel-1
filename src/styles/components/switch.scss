@@ -1,0 +1,26 @@
+.sappane-switch {
+    .el-switch__core {
+        background-color: #606266;
+        border-color: #606266;
+        width: 30px !important;
+        height: 18px;
+    }
+
+    .el-switch.is-checked .el-switch__core {
+        background-color: #409eff;
+        border-color: #409eff;
+    }
+
+    .el-switch__core:after {
+        width: 14px;
+        height: 14px;
+    }
+
+}
+
+.el-switch.is-checked .el-switch__core::after {
+margin-left: -15px !important;
+}
+.el-switch {
+float: right;
+}

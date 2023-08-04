@@ -1,0 +1,67 @@
+.el-notification {
+    top: 8vh;
+    right: 20vw !important;
+    background-color: #141414 !important;
+    color: white;
+    padding: 10px;
+    font-size: 10px;
+    border: 1px solid #333333 !important;
+
+    .el-icon-info {
+        height: 20px;
+        width: 20px;
+        font-size: 16px;
+    }
+
+    .el-icon-error {
+        height: 20px;
+        width: 20px;
+        font-size: 16px;
+    }
+
+    .el-notification__title {
+        padding-left: 5px;
+        color: white;
+        font-size: 14px;
+    }
+
+    .el-notification__closeBtn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    .el-notification__content {
+        padding-left: 5px;
+        font-size: 12px;
+    }
+
+
+}
+
+.crm-notification {
+    background-color: white !important;
+    border: none !important;
+    border-radius: 4px !important;
+    padding: 0px !important;
+    height: 44px;
+    width: 400px !important;
+    box-shadow: 0px 0px 10px 0px #00000040 !important;
+
+    
+    .el-notification__content {
+        padding: 0 !important;
+        margin: 0 0 20px 0!important;
+    }
+    .main-card:hover{
+        box-shadow: none
+    }
+    .main-card-div{
+        position: relative;
+        top: 13px;
+        padding: 0;
+        margin: 0 10px 0 0;
+        width: 400px !important;
+    }
+
+}

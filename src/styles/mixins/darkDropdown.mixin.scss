@@ -1,0 +1,55 @@
+@mixin darkDropdown {
+    background-color: #2a2a2a !important;
+    color: white !important;
+    font-size: 14px;
+    border: 1px solid #2a2a2a !important;
+    margin-right: 1.5%;
+    transform-origin: right top 0 !important;
+    margin-top: 25px !important;
+
+    .possibleAzimuthDropdown {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        &:hover {
+            color: inherit;
+        }
+
+        .el-icon-back:before {
+            color: white;
+            &:before {
+                content: '\E606';
+            }
+        }
+    }
+
+    .el-select-dropdown__item.selected {
+        background-color: transparent;
+        color: #409eff;
+    }
+
+    .el-select-dropdown__item {
+        color: white;
+    }
+
+    .el-select-dropdown__item.hover,
+    .el-select-dropdown__item:hover {
+        background-color: #666666 !important;
+        color: white !important;
+    }
+
+    .popper__arrow,
+    .popper__arrow::after,
+    .popper__arrow::before {
+        border-color: transparent !important;
+    }
+
+    .el-scrollbar {
+        max-height: 250px !important;
+    }
+
+    .el-select-group__title {
+        padding-left: 8px;
+    }
+}

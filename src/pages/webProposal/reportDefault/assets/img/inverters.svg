@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.155" height="32.987" viewBox="0 0 38.155 32.987">
+    <defs>
+        <style>
+            .cls-1,.cls-3,.cls-4,.cls-6{fill:none}.cls-1,.cls-3,.cls-4{stroke:#777}.cls-1,.cls-4{stroke-linecap:round}.cls-1{stroke-linejoin:round}.cls-1,.cls-3,.cls-4{stroke-width:1.5px}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_26" data-name="Group 26" transform="translate(-604.957 -404.513)">
+        <path id="Path_6" data-name="Path 6" class="cls-1" d="M4608.025 4200.725h-15v3.9h36.655v-3.9h-15.051" transform="translate(-3987.32 -3792)"/>
+        <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(623.284 408)" style="stroke:#777;fill:none">
+            <circle class="cls-5" cx=".75" cy=".75" r=".75"/>
+            <circle class="cls-6" cx=".75" cy=".75" r=".25"/>
+        </g>
+        <path id="Path_7" data-name="Path 7" class="cls-1" d="M4597.97 4200.75v-3.487h7.388v3.487" transform="translate(-3988 -3792)"/>
+        <path id="Path_8" data-name="Path 8" class="cls-1" d="M4597.97 4200.75v-3.487h7.388v3.487" transform="translate(-3967.26 -3792)"/>
+        <g id="Rectangle_1791" data-name="Rectangle 1791" class="cls-3" transform="translate(605 432)">
+            <rect class="cls-5" width="38" height="5.5" rx="1"/>
+            <rect class="cls-6" x=".75" y=".75" width="36.5" height="4" rx=".25"/>
+        </g>
+        <path id="Line_17" data-name="Line 17" class="cls-3" transform="translate(608 413)" d="M0 0v20"/>
+        <path id="Line_18" data-name="Line 18" class="cls-3" transform="translate(640 413)" d="M0 0v20"/>
+        <path id="Line_19" data-name="Line 19" class="cls-4" transform="translate(612.164 422.5)" d="M0 0h3"/>
+        <path id="Line_20" data-name="Line 20" class="cls-4" transform="translate(632.904 422.5)" d="M0 0h3"/>
+        <path id="Line_21" data-name="Line 21" class="cls-4" transform="rotate(90 106.702 527.702)" d="M0 0h3"/>
+        <path id="Path_9" data-name="Path 9" class="cls-1" d="m4612.61 4207.545-4.9 8.455h3.738v5.734l4.826-8.31h-3.665z" transform="translate(-3988 -3792)"/>
+    </g>
+</svg>

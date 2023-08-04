@@ -1,0 +1,101 @@
+@import '../settings/colors';
+@import '../mixins/sappane-value.mixin';
+
+.sappane-value {
+    @include sappane-value();
+
+    color: #eaeaea;
+    box-sizing: content-box;
+    display: block;
+    max-width: 100px;
+    width: 40%;
+    overflow-x: hidden;
+}
+.sappane-input-value-1 {
+    @include sappane-value();
+
+    background-color: #050505;
+    color: #fafafa;
+    display: flex;
+    box-sizing: border-box;
+    width: 43%;
+    height: 1.5vw !important;
+
+}
+
+.sappane-input-value {
+    @include sappane-value();
+
+    background-color: #050505;
+    color: #fafafa;
+    display: flex;
+    box-sizing: border-box;
+    width: 25%;
+    height: 1.5vw !important;
+
+}
+.inputfeet{
+    border: none;
+    background-color: var(--white);
+    padding: 8px 16px 0px 0px;
+    height: 39px;
+    width:100%;
+    font-size: 14px;
+    -webkit-box-sizing: border-box;
+    margin-left: -1px;
+    box-sizing: border-box;
+}
+
+.sappane-label {
+    text-align: left;
+    text-overflow: ellipsis !important;
+    align-items: center;
+    color: white;
+    font-family: 'Helvetica neue', 'Times', serif;
+    font-size: 0.9vw;
+    text-decoration: none;
+    // padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 500;
+    width: 100%;
+    margin-top: 7px;
+}
+.sappane-label.range-string {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 10px 0 5px;
+}
+.text-toolbar-label {
+    text-align: center;
+    text-overflow: ellipsis !important;
+    align-items: center;
+    color: white;
+    font-family: 'Helvetica neue', 'Times', serif;
+    font-size: 1.0vw;
+    text-decoration: none;
+    padding-bottom: 10px;
+    font-weight: 500;
+}
+
+@media screen and (max-width: 768px) {
+    .spanWidth{
+        width: 100%;
+    }
+
+    .inputfeet{
+        height: 36px;
+        margin-top: -10px;
+        width:100%;
+        font-size: 14px;
+        -webkit-box-sizing: border-box;
+        margin-left: -1px;
+        box-sizing: border-box;
+        border-radius: 4px;
+        padding-left: 0px !important;
+        padding-top: 0px !important;
+    }
+}
+
+

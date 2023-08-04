@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'panelstack';
+  src:  url('panelstack.eot?o31kux');
+  src:  url('panelstack.eot?o31kux#iefix') format('embedded-opentype'),
+    url('panelstack.ttf?o31kux') format('truetype'),
+    url('panelstack.woff?o31kux') format('woff'),
+    url('panelstack.svg?o31kux#panelstack') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'panelstack' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.list-icon:before {
+  content: "\e90e";
+}
+.copy-alt:before {
+  content: "\e900";
+}
+.Dashboard:before {
+  content: "\e901";
+}
+.delete-alt:before {
+  content: "\e902";
+}
+.download-alt:before {
+  content: "\e903";
+}
+.edit-alt:before {
+  content: "\e904";
+}
+.favorite:before {
+  content: "\e905";
+}
+.help:before {
+  content: "\e906";
+}
+.location:before {
+  content: "\e907";
+}
+.project:before {
+  content: "\e908";
+}
+.search:before {
+  content: "\e909";
+}
+.setting:before {
+  content: "\e90a";
+}
+.share-alt:before {
+  content: "\e90b";
+}
+.upload-alt:before {
+  content: "\e90c";
+}
+.share-2:before {
+  content: "\e90d";
+}
+.bargraph:before {
+  content: "\e018";
+}

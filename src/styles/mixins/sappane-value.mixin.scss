@@ -1,0 +1,29 @@
+@import '../settings/colors';
+
+@mixin sappane-value() {
+
+  justify-content: center;
+  float: right;
+  text-align: right;
+  white-space: nowrap;
+  text-overflow: ellipsis !important;
+  font-size: 0.8vw;
+  height: 1.2vw;
+  border-radius: 2px;
+  padding: 0 5px 0 0;
+  border: none;
+
+  &:focus {
+
+    color: #409eff !important;
+    border: 1px solid whitesmoke !important;
+    outline: 0;
+    box-shadow: none !important;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+
+}
+
